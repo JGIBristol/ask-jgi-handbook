@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: pages/intro
+parts:
+- caption: Data Science Shifts 
+  chapters:
+  - file: pages/shift-organization
+  - file: pages/shift-schedule
+- caption: Resources
+  chapters:
+  - file: pages/other-services
