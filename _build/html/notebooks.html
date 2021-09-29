@@ -107,14 +107,48 @@
  </span>
 </p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="pages/shift-organization.html">
    Shift organization
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="pages/shift-sign-up.html">
+     Shift sign-up
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="pages/shift-tasks.html">
+     Shifter tasks
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="pages/shift-schedule.html">
    Shift schedule
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Procedures
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="pages/procedures.html">
+   How it works
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="pages/tracker.html">
+   Ask-JGI tracker
   </a>
  </li>
 </ul>
@@ -326,9 +360,6 @@ For example, here’s some sample Matplotlib code:</p>
 <span class="n">ax</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">custom_lines</span><span class="p">,</span> <span class="p">[</span><span class="s1">&#39;Cold&#39;</span><span class="p">,</span> <span class="s1">&#39;Medium&#39;</span><span class="p">,</span> <span class="s1">&#39;Hot&#39;</span><span class="p">]);</span>
 </pre></div>
 </div>
-</div>
-<div class="cell_output docutils container">
-<img alt="_images/notebooks_2_0.png" src="_images/notebooks_2_0.png" />
 </div>
 </div>
 <p>There is a lot more that you can do with outputs (such as including interactive outputs)

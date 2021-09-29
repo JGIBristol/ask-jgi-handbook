@@ -7,7 +7,14 @@ parts:
 - caption: Data Science Shifts 
   chapters:
   - file: pages/shift-organization
+    sections:
+    - file: pages/shift-sign-up
+    - file: pages/shift-tasks
   - file: pages/shift-schedule
+- caption: Procedures
+  chapters:
+  - file: pages/procedures
+  - file: pages/tracker
 - caption: Resources
   chapters:
   - file: pages/other-services
