@@ -1,20 +1,10 @@
 # Shift organization
 
 Ask-JGI shifts will be undertaken by PhD students in 2 week blocks. 
-For each 2 week shift block a base salary of 2 hours, paid at a
-demonstrator hourly fee, will
-be paid.
-This is to cover the monitoring of the Ask-JGI mailbox and attendance
-at the weekly Ask-JGI data science meetings. 
-
-We expect 1-2 queries per week, and for these queries up to
-1 day of support is freely available to University of Bristol staff
-and PhD students in all faculties and departments. 
-When a query is picked up, Ask-JGI shifters should report the number of hours
-spent addressing that query, and they will be paid for their
-consultation at the hourly demonstrator rate. 
-
-
+At least for the initial few months of the 2021-22 academic year,
+there will be up to 2 shifters "on duty" at any one time. The shift
+blocks are intended to follow the booking pattern illustrated below,
+with a staggered shift hand-over every other week. 
 
 <style type="text/css">
 table tr#ROW1  {background-color:red; text-align:center}
@@ -26,11 +16,11 @@ table td#WEEK2 {background-color:#303030;color:white;text-align:center}
 table td#WEEK3 {background-color:#606060;color:white;text-align:center}
 table td#WEEK4 {background-color:#808080;color:white;text-align:center}
 table td#WEEK5 {background-color:#A9A9A9;color:white;text-align:center}
-table td#shift1 {background-color:red; text-align:center; line-height: 100px;}
-table td#shift2 {background-color:orange; text-align:center; line-height: 100px; }
-table td#shift3 {background-color:green; text-align:center; line-height: 100px;}
+table td#shift1 {background-color:red; color:white; text-align:center; line-height: 100px;}
+table td#shift2 {background-color:orange; color:white; text-align:center; line-height: 100px; }
+table td#shift3 {background-color:green; color:white; text-align:center; line-height: 100px;}
 table td#shift4 {background-color:blue; color:white; text-align:center; line-height: 100px;}
-table td#shift5 {background-color:white; text-align:center; line-height: 100px;}
+table td#shift5 {background-color:white; color:white; text-align:center; line-height: 100px;}
 </style>
 
 <table>
@@ -80,12 +70,29 @@ table td#shift5 {background-color:white; text-align:center; line-height: 100px;}
 	</tr>
 <tr id="ROW1">
 	           <td colspan="14" id="shift1">Shift 1</td>
-               <td colspan="14" id="shift3">Shift 3</td>
+               <td colspan="14" id="shift3">Shift 1</td>
 			   <td colspan="7" id="CELLBLANK">&nbsp;</td>
 </tr>
 <tr id="ROW2">
 			   <td colspan="7" id="CELLBLANK">&nbsp;</td>
                <td colspan="14"  id="shift2">Shift 2</td>
-               <td colspan="14" id="shift4">Shift 4</td>
+               <td colspan="14" id="shift4">Shift 2</td>
 </tr>
 </table>
+</br></br>
+
+For each 2 week shift block a base salary of 2 hours, paid at a
+demonstrator hourly fee, will
+be paid.
+This is to cover the monitoring of the Ask-JGI mailbox / slack channel and attendance
+at the weekly Ask-JGI data science meetings. 
+
+
+We expect 1-2 queries per week, and for these queries up to
+1 day of support is freely available to University of Bristol staff
+and PhD students in all faculties and departments. 
+When a query is picked up, Ask-JGI shifters should report the number of hours
+spent addressing that query, and they will be paid for their
+consultation at the hourly demonstrator rate. For more information
+please see [Getting paid](payment). 
+
