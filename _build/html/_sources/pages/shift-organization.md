@@ -93,6 +93,10 @@ We expect 1-2 queries per week, and for these queries up to
 and PhD students in all faculties and departments. 
 When a query is picked up, Ask-JGI shifters should report the number of hours
 spent addressing that query, and they will be paid for their
-consultation at the hourly demonstrator rate. For more information
-please see [Getting paid](payment). 
+consultation at the hourly demonstrator rate. 
+
+More information can be found in the following:
+- [How to sign up for shifts](signup)
+- [Ask-JGI tasks](tasks)
+- [Claiming payment for hours worked](payment)
 

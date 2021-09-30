@@ -1,3 +1,4 @@
+(signup)=
 # Shift sign-up
 
 Shifts are booked using the Ask-JGI calendar
