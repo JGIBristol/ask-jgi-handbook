@@ -1,5 +1,10 @@
 # Related services
 
+```{note}
+Sign-posting is an important part of Ask-JGI. Some queries may be
+better addressed by other university services, some of which are listed below.
+```
+
 - [Statistics
   Clinic](https://www.bristolmathsresearch.org/statistical-science/stats-clinic/):
   A free statistical consulting service offered to researchers at the
