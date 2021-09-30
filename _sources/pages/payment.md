@@ -1,2 +1,2 @@
 (payment)=
-# Getting paid
+# Claiming payment
