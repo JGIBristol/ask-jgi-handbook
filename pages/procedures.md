@@ -1,6 +1,10 @@
 # How it works
 
+This page outlines how Ask-JGI works in the following segments:
+- [The life-cycle of a query](query)
+- [Ask-JGI reporting and documentation](report)
 
+(query)=
 ## Ask-JGI queries
 1. Researchers email their queries to ask-jgi@bristol.ac.uk
  <br/><br/>
@@ -36,7 +40,7 @@
 7. Once the query has been resolved the ticket on the tracker should be
   marked as resolved.
 
-
+(report)=
 ## Reporting
 Although Ask-JGI team members have up to one day to spend on Ask-JGI
 queries, it is expected that most queries should take half a day or
@@ -53,7 +57,7 @@ time spent researching the query and preparing email responses.
 Once a query has been resolved the Ask-JGI team member should note the
 number of hours spent on the query on the tracker ticket. 
 
-**TODO: how do shifters claim for their hours?**
+
 
 
 
