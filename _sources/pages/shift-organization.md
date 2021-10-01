@@ -1,8 +1,8 @@
 # Shift organization
 
-Ask-JGI shifts will be undertaken by PhD students in 2 week blocks. 
+Ask-JGI shifts will be undertaken by Ask-JGI team members in 2 week blocks. 
 At least for the initial few months of the 2021-22 academic year,
-there will be up to 2 shifters "on duty" at any one time. The shift
+there will be up to 2 Ask-JGI team members "on duty" at any one time. The shift
 blocks are intended to follow the booking pattern illustrated below,
 with a staggered shift hand-over every other week. 
 (diagram)=
@@ -91,7 +91,7 @@ at the weekly Ask-JGI data science meetings.
 We expect 1-2 queries per week, and for these queries up to
 1 day of support is freely available to University of Bristol staff
 and PhD students in all faculties and departments. 
-When a query is picked up, Ask-JGI shifters should report the number of hours
+When a query is picked up, Ask-JGI team members should report the number of hours
 spent addressing that query, and they will be paid for their
 consultation at the hourly demonstrator rate. 
 
