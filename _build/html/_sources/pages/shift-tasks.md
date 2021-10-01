@@ -25,11 +25,12 @@ your new buddy. </br></br>
 3. You are expected to monitor the Ask-JGI slack channel
    intermittently throughout the day. This is where any new queries
    will be posted for you to pick up.
-```{tip}
-Remember that the JGI data scientists are on the slack channel too,
-and they can offer advice and pointers on any query that you need help
-with.
-```
+   ```{tip}
+   Remember that the JGI data scientists are on the slack channel too,
+   and they can offer advice and pointers on any query that you need help
+   with.
+   ```
+   </br>
 4. Ask-JGI team members are expected to attend the weekly Ask-JGI
 [data science meetings](meetings) while they are on shift.
 </br></br>
