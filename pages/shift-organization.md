@@ -5,7 +5,7 @@ At least for the initial few months of the 2021-22 academic year,
 there will be up to 2 shifters "on duty" at any one time. The shift
 blocks are intended to follow the booking pattern illustrated below,
 with a staggered shift hand-over every other week. 
-
+(diagram)=
 <style type="text/css">
 table tr#ROW1  {background-color:red; text-align:center}
 table tr#ROW2  {background-color:orange; text-align:center}
