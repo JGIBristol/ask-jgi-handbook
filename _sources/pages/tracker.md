@@ -110,8 +110,15 @@ for contacts from outside the University of Bristol.
 :::{image} ../images/ticket_tags.png
 :::
 </br></br>
+9. Record the number of hours spent on a given task in the **Time
+   Allocation** field. This includes time taken to respond to emails,
+   setting up and attending meetings with service users, and
+   investigating the question itself (be it reviewing code,
+   data, research, etc.). If you think a query is going to take more
+   than 5 hours of your time, discuss this with your data science
+   supervisor.
+</br></br>
 
-**TODO: add hours tracking column to tracker?**
    
 
 
