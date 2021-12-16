@@ -1,11 +1,5 @@
-# Getting started
-
-
-This page outlines the steps that need to be completed to get new
-members of the Ask-JGI team set up.
-
-
-### Contract and working hours
+(contracts)=
+# Contract and working hours
 
 ```{important}
 Please note the university [guidance](http://www.bristol.ac.uk/students/support/finances/advice/part-time-work/) on working part time during your
@@ -29,7 +23,7 @@ be sent to TSS at tss-cag@bristol.ac.uk **at least 3 weeks** prior to
 the commencement of Ask-JGI activities.
 
 
-There are some cases where the above criteria do not apply
+There are some cases where the above criteria do not apply (see below subsections).
 #### Student already employed through UoB HR
 
 In cases where a student is already a staff member at the University,
@@ -50,15 +44,3 @@ Office](http://www.bristol.ac.uk/hr/policies/international-mobility/).
 Provided that the International Mobility team are able to approve the
 circumstances a TSS contract ought to be able to be drawn up for a
 duration of 6 months (maximum for overseas-based workers).
-
-### Communications and Access
-
-New Ask-JGI team members will require the following:
-- Access to the **Bristol Data Science Network** Workspace and the
-  private **Ask-JGI** Slack channel.
-- Access to the Ask-JGI mailbox (mailbox membership can be managed via
-  [this link](https://www.bristol.ac.uk/it-services/applications/shared-mailboxes/sharedmailbox/MDAwNDk4NTY*)).
-- Access to the Ask-JGI tracker (access is managed through [this group](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/_layouts/15/people.aspx?MembershipGroupId=1001)).
-
-
-
