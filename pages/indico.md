@@ -4,11 +4,16 @@
 The Ask-JGI weekly meetings are managed through
 [indico](https://indico.cern.ch/). 
 
+### Navigating indico
+
 You should be able to locate the Jean Golding Institute indico agendas
 directly,
 [here](https://indico.cern.ch/category/14723/). Alternatively, you can
 navigate to this category from the indico home page by selecting:</br>
-`Global indico` &rarr; `United Kingdom` &rarr; `Jean Golding Institute`.
+`Global indico` &rarr; `United Kingdom` &rarr; `Jean Golding
+Institute`.
+
+![JGI indico category top level screenshot](../images/indico/indico_jgi.png)
 
 ### Creating an indico account
 
@@ -35,3 +40,5 @@ sign in page. Enter your GitHub credentials here and you will be able
 to create your indico profile.
     ![indico GitHub login page screenshot](../images/indico/indico_github.png)
     </br></br>
+
+
