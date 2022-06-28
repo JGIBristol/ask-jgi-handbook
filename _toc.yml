@@ -16,6 +16,8 @@ parts:
   chapters:
   - file: pages/procedures
   - file: pages/meetings
+    sections:
+    - file: pages/indico
   - file: pages/tracker
 - caption: Resources
   chapters:
