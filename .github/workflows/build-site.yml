@@ -7,13 +7,9 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch for the book content directory.
   push:
     branches: [ main ]
-    paths:
-      book/**
 
   pull_request:
     branches: [ main ]
-    paths:
-      book/**
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -43,4 +39,4 @@ jobs:
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build book
+          jupyter-book build .
