@@ -4,13 +4,22 @@
 The Ask-JGI weekly meetings are managed through
 [indico](https://indico.cern.ch/). 
 
-### Navigating indico
+In this handbook section you can find information on the following:
+- How to [find Ask-JGI meetings](whereami_indico) on indico.
+- How to [set up an indico account](account).
+- How to [grant a new team member access](indico_access) to the Ask-JGI Group Meeting
+  agendas on indico.
+
+(whereami_indico)=
+## Navigating indico
 
 You should be able to locate the Jean Golding Institute indico agendas
 directly under `Group Meetings` [here](https://indico.cern.ch/category/14723/). Alternatively, you can
 navigate to this category from the indico home page by selecting:</br>
 `Global indico` &rarr; `United Kingdom` &rarr; `Jean Golding
-Institute`. Either way, you should be able to view the Jean Golding
+Institute`. 
+
+You should be able to view the Jean Golding
 Institute indico category whether you have an indico account or
 not. The top level category page will look something like the
 screenshot below.
@@ -26,12 +35,13 @@ Meetings` category. This indicates that this is a protected category
 not true of the `Events` category, which **is public**. 
 
 In order to be able to view the protected `Group Meetings` category
-you will need to [create an indico account](indico_account), and you will need one of
+you will need to [create an indico account](account), and you will need one of
 the JGI indico managers to [add your account to the access list](indico_management) for the
 `Group Meetings` category. 
 
-(indico_account)=
-### Creating an indico account
+
+(account)=
+## Creating an indico account
 
 If you are new to indico, you can create an account using your [GitHub](https://github.com/)
 credentials. If you don't have a GitHub account, we recommend you get one!
@@ -57,8 +67,13 @@ to create your indico profile.
     ![indico GitHub login page screenshot](../images/indico/indico_github.png)
     </br></br>
 
+(indico_access)=
+## Managing access on indico
 
-### Managing access on indico
+:::{important}
+These instructions are for **managers**.
+:::
+
 
 When a new member joins the Ask-JGI team, one of the JGI indico
 managers will need to add the new member's indico account to the
@@ -94,3 +109,6 @@ the `Group Meetings` indico category:
     ![indico set user access
    screenshot](../images/indico/indico_select_users.png)
     </br></br>
+4.  Don't forget to save your changes. You should then be able to see
+    the new member listed in the access list, and they should be able
+    to access the group meeting agendas when they are signed in to indico.
