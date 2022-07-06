@@ -25,7 +25,7 @@ not. The top level category page will look something like the
 screenshot below.
 
 ![JGI indico category top level
-screenshot](../images/indico/indico_jgi.png)
+screenshot](../../images/indico/indico_jgi.png)
 
 </br></br>
 
@@ -36,7 +36,7 @@ not true of the `Events` category, which **is public**.
 
 In order to be able to view the protected `Group Meetings` category
 you will need to [create an indico account](account), and you will need one of
-the JGI indico managers to [add your account to the access list](indico_management) for the
+the JGI indico managers to [add your account to the access list](indico_access) for the
 `Group Meetings` category. 
 
 
@@ -53,18 +53,18 @@ To create your indico account using your GitHub credentials, simply follow the i
 1.  Navigate to the [indico homepage](https://indico.cern.ch/) and
 select the login icon in the top right corner of the screen, as
 illustrated below.
-    ![indico home page screenshot](../images/indico/indico_home.png)
+    ![indico home page screenshot](../../images/indico/indico_home.png)
     </br></br>
 2.  You will then be greeted with the below sign in page. If you do
 not already have an indico account then the easiest thing to do is to
 sign in using your GitHub credentials. To sign into indico using your
 GitHub credentials, select the GitHub icon listed under the option `Or sign in with a social account`.
-    ![indico sign-in page screenshot](../images/indico/indico_sso.png)
+    ![indico sign-in page screenshot](../../images/indico/indico_sso.png)
     </br></br>
 3.  Once you select this option you will be directed to the following
 sign in page. Enter your GitHub credentials here and you will be able
 to create your indico profile.
-    ![indico GitHub login page screenshot](../images/indico/indico_github.png)
+    ![indico GitHub login page screenshot](../../images/indico/indico_github.png)
     </br></br>
 
 (indico_access)=
@@ -89,7 +89,7 @@ the `Group Meetings` indico category:
    `Manage category` icon, as shown in the image below. This will
    direct you to the management area of the `Group Meetings` indico category.
     ![indico manage category icon
-   screenshot](../images/indico/indico_manage.jpg)
+   screenshot](../../images/indico/indico_manage.jpg)
     </br></br>
 2.  Once you have switched to the management area, select `Protection`
    on the left hand navigation menu. This will take you to the
@@ -99,7 +99,7 @@ the `Group Meetings` indico category:
    clicking the `User` icon at the
    bottom of the list of existing users.
     ![indico protection settings
-   screenshot](../images/indico/indico_protection.jpg)
+   screenshot](../../images/indico/indico_protection.jpg)
     </br></br>
 3.  Selecting the add user option will open a window like that shown
     in the image below. Here you should be able to search for the
@@ -107,7 +107,7 @@ the `Group Meetings` indico category:
     need to have already registered for an indico account in order for
     this to work. 
     ![indico set user access
-   screenshot](../images/indico/indico_select_users.png)
+   screenshot](../../images/indico/indico_select_users.png)
     </br></br>
 4.  Don't forget to save your changes. You should then be able to see
     the new member listed in the access list, and they should be able
