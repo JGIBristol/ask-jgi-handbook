@@ -42,6 +42,9 @@ The requirements for these posts are as follows:
 This opportunity should be circulated in the JGI Newsletter and on the
 Bristol Data Science Network Slack workspace.
 
+Current Ask-JGI students should also be asked to circulate the
+opportunity to their peers.
+
 The Ask-JGI Manager should reach out directly to the Bristol leads for
 the following doctoral training centres at the University of Bristol,
 and ask that they circulate this opportunity amongst their CDT cohorts
