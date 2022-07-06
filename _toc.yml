@@ -24,6 +24,7 @@ parts:
   - file: pages/other-services
 - caption: For managers
   chapters:
+  - file: pages/recruitment
   - file: pages/new-shifters
     sections:
     - file: pages/contracts
