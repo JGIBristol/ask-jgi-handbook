@@ -20,7 +20,7 @@ events (repeating every two weeks).
 An unbooked shift block will be entered in the calendar as **Shift 1:
 Open** or **Shift 2: Open**, and will appear as shown below:
 
-::::{image} ../images/shift_open.png
+::::{image} ../../images/shift_open.png
 ::::
 </br></br>
 To book an available shift block:
@@ -32,14 +32,14 @@ It's important that you edit only one occurence of the event and not
 the series. Make sure you select **This event** from the "Edit"
 options.
 ```
-::::{image} ../images/shift_edit.png
+::::{image} ../../images/shift_edit.png
 ::::
 </br></br>
 2. Change the event title from **Shift 1: Open** or **Shift 2:: Open**
 to your name (the shift is being booked by Bob in the example
 below). </br></br>
 3. Set the event to show as **Busy**, as shown in the example below.
-::::{image} ../images/shift_busy.png
+::::{image} ../../images/shift_busy.png
 ::::
 </br></br>
 4. Double check that you have entered your name and that the event is
@@ -53,12 +53,12 @@ This should be confirmed in the information banner at the top of the
 event window, just below the save button, as shown below.
 ```
 
-::::{image} ../images/shift_saved.png
+::::{image} ../../images/shift_saved.png
 ::::
 </br></br>
 5. If successful your changes should be visible immediately in the
 Outlook calendar:
-::::{image} ../images/shift_booked.png
+::::{image} ../../images/shift_booked.png
 ::::
 </br></br>
 

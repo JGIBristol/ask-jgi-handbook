@@ -6,26 +6,26 @@ root: pages/intro
 parts:
 - caption: Data Science Shifts 
   chapters:
-  - file: pages/shift-organization
+  - file: pages/shifts/shift-organization
     sections:
-    - file: pages/shift-sign-up
-    - file: pages/shift-tasks
-    - file: pages/payment
-  - file: pages/shift-schedule
+    - file: pages/shifts/shift-sign-up
+    - file: pages/shifts/shift-tasks
+    - file: pages/shifts/payment
+  - file: pages/shifts/shift-schedule
 - caption: Procedures
   chapters:
-  - file: pages/procedures
-  - file: pages/meetings
+  - file: pages/procedures/procedures
+  - file: pages/procedures/meetings
     sections:
-    - file: pages/indico
-  - file: pages/tracker
+    - file: pages/procedures/indico
+  - file: pages/procedures/tracker
 - caption: Resources
   chapters:
-  - file: pages/other-services
+  - file: pages/resources/other-services
 - caption: For managers
   chapters:
-  - file: pages/recruitment
-  - file: pages/new-shifters
+  - file: pages/managers/recruitment
+  - file: pages/managers/new-shifters
     sections:
-    - file: pages/contracts
-    - file: pages/access
+    - file: pages/managers/contracts
+    - file: pages/managers/access
