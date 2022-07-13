@@ -11,7 +11,6 @@ parts:
     - file: pages/shifts/shift-sign-up
     - file: pages/shifts/shift-tasks
     - file: pages/shifts/payment
-  - file: pages/shifts/shift-schedule
 - caption: Procedures
   chapters:
   - file: pages/procedures/procedures
