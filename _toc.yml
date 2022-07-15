@@ -4,16 +4,14 @@
 format: jb-book
 root: pages/intro
 parts:
-- caption: Data Science Shifts 
+- caption: Procedures
   chapters:
+  - file: pages/procedures/procedures
   - file: pages/shifts/shift-organization
     sections:
     - file: pages/shifts/shift-sign-up
     - file: pages/shifts/shift-tasks
     - file: pages/shifts/payment
-- caption: Procedures
-  chapters:
-  - file: pages/procedures/procedures
   - file: pages/procedures/meetings
     sections:
     - file: pages/procedures/indico

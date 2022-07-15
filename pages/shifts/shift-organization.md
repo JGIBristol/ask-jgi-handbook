@@ -1,4 +1,4 @@
-# Shift organization
+# Data science shifts
 
 Ask-JGI shifts will be undertaken by Ask-JGI team members in 2 week blocks. 
 At least for the initial few months of the 2021-22 academic year,
