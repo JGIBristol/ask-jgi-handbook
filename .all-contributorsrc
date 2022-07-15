@@ -25,6 +25,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Jean-Golding-Institute",
+      "name": "Jean Golding Institute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45198316?v=4",
+      "profile": "http://bristol.ac.uk/golding/",
+      "contributions": [
+        "financial",
+        "fundingFinding"
+      ]
     }
   ],
   "contributorsPerLine": 7,
