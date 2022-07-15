@@ -6,7 +6,8 @@ root: pages/intro
 parts:
 - caption: Procedures
   chapters:
-  - file: pages/procedures/procedures
+  - file: pages/procedures/getting-started
+  - file: pages/procedures/procedures  
   - file: pages/shifts/shift-organization
     sections:
     - file: pages/shifts/shift-sign-up
