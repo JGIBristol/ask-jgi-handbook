@@ -14,11 +14,20 @@
         "doc",
         "mentoring"
       ]
+    },
+    {
+      "login": "NatalieZelenka",
+      "name": "Natalie Zelenka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieZelenka",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "ask-jgi-handbook",
-  "projectOwner": "ekuw",
+  "projectOwner": "Jean-Golding-Institute",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
