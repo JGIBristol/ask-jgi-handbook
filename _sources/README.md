@@ -15,7 +15,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ekuw"><img src="https://avatars.githubusercontent.com/u/76116294?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ekuw</b></sub></a><br /><a href="https://github.com/Jean-Golding-Institute/ask-jgi-handbook/commits?author=ekuw" title="Documentation">📖</a> <a href="#mentoring-ekuw" title="Mentoring">🧑‍🏫</a></td>
+    <td align="center"><a href="https://github.com/ekuw"><img src="https://avatars.githubusercontent.com/u/76116294?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ekuw</b></sub></a><br /><a href="https://github.com/Jean-Golding-Institute/ask-jgi-handbook/commits?author=ekuw" title="Documentation">📖</a> <a href="#mentoring-ekuw" title="Mentoring">🧑‍🏫</a> <a href="#projectManagement-ekuw" title="Project Management">📆</a> <a href="#maintenance-ekuw" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/NatalieZelenka"><img src="https://avatars.githubusercontent.com/u/17617308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Natalie Zelenka</b></sub></a><br /><a href="#ideas-NatalieZelenka" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
