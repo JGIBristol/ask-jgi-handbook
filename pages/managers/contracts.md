@@ -23,12 +23,17 @@ be sent to TSS at tss-cag@bristol.ac.uk **at least 3 weeks** prior to
 the commencement of Ask-JGI activities.
 
 
+To claim payment each month, students will need to send a completed
+time sheet to the JGI Manager, who will enter their hours on MyERP.
+
+
 There are some cases where the above criteria do not apply (see below subsections).
+
 #### Student already employed through UoB HR
 
 In cases where a student is already a staff member at the University,
 a payment route has already been set up through HR. This means that
-hours worked on Ask-JGI must be claimed by the student through myERP
+hours worked on Ask-JGI must be claimed by the student through MyERP
 using a **Staff Fee Claim** form.
 
 The student will require a budget code and hourly rate (excluding

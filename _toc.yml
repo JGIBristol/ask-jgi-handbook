@@ -4,20 +4,27 @@
 format: jb-book
 root: pages/intro
 parts:
-- caption: Data Science Shifts 
+- caption: Procedures
   chapters:
-  - file: pages/shifts/shift-organization
+  - file: pages/procedures/getting-started
+  - file: pages/shifts/shifts
     sections:
+    - file: pages/shifts/shift-organization
     - file: pages/shifts/shift-sign-up
     - file: pages/shifts/shift-tasks
     - file: pages/shifts/payment
-- caption: Procedures
-  chapters:
   - file: pages/procedures/procedures
+    sections:
+    - file: pages/procedures/queries
+    - file: pages/procedures/auto-replies
+    - file: pages/procedures/time-allocation
+  - file: pages/procedures/tracker
+    sections:
+    - file: pages/procedures/ticket-updates
+    - file: pages/procedures/update-tracker
   - file: pages/procedures/meetings
     sections:
     - file: pages/procedures/indico
-  - file: pages/procedures/tracker
 - caption: Resources
   chapters:
   - file: pages/resources/other-services

@@ -1,4 +1,4 @@
-# New Shifters
+# Setting up new shifters
 
 This section outlines the steps that need to be completed to get new
 members of the Ask-JGI team set up.
