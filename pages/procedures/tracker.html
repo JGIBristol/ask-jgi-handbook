@@ -21,7 +21,7 @@
     href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
-    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
@@ -37,7 +37,7 @@
     <script src="../../_static/doctools.js"></script>
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
-    <script src="../../_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
@@ -52,8 +52,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="../../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Related services" href="../resources/other-services.html" />
-    <link rel="prev" title="Indico" href="indico.html" />
+    <link rel="next" title="Automatic ticket updates" href="ticket-updates.html" />
+    <link rel="prev" title="Time allocation for queries" href="time-allocation.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -115,13 +115,18 @@ const thebe_selector_output = ".output, .cell_output"
         </ul>
         <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Data Science Shifts
+  Procedures
  </span>
 </p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="getting-started.html">
+   Getting started
+  </a>
+ </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../shifts/shift-organization.html">
-   Shift organization
+  <a class="reference internal" href="../shifts/shifts.html">
+   Data science shifts
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
   <label for="toctree-checkbox-1">
@@ -129,6 +134,11 @@ const thebe_selector_output = ".output, .cell_output"
    </i>
   </label>
   <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../shifts/shift-organization.html">
+     Shift organization
+    </a>
+   </li>
    <li class="toctree-l2">
     <a class="reference internal" href="../shifts/shift-sign-up.html">
      Shift sign-up
@@ -146,24 +156,61 @@ const thebe_selector_output = ".output, .cell_output"
    </li>
   </ul>
  </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Procedures
- </span>
-</p>
-<ul class="current nav bd-sidenav">
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="procedures.html">
    How it works
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="queries.html">
+     Ask-JGI queries
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="auto-replies.html">
+     Automatic email replies
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="time-allocation.html">
+     Time allocation for queries
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 current active has-children">
+  <a class="current reference internal" href="#">
+   Ask-JGI tracker
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="ticket-updates.html">
+     Automatic ticket updates
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="update-tracker.html">
+     Filling out the tracker
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="meetings.html">
    Weekly meetings
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -174,11 +221,6 @@ const thebe_selector_output = ".output, .cell_output"
     </a>
    </li>
   </ul>
- </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   Ask-JGI tracker
-  </a>
  </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
@@ -206,10 +248,10 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="../managers/new-shifters.html">
-   New Shifters
+   Setting up new shifters
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -299,7 +341,7 @@ title="Fullscreen mode"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="https://github.com/ekuw/ask-jgi-handbook"
+        <a href="https://github.com/Jean-Golding-Institute/ask-jgi-handbook"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -316,7 +358,7 @@ title="Source repository"
       </li>
       
       <li>
-        <a href="https://github.com/ekuw/ask-jgi-handbook/issues/new?title=Issue%20on%20page%20%2Fpages/procedures/tracker.html&body=Your%20issue%20content%20here."
+        <a href="https://github.com/Jean-Golding-Institute/ask-jgi-handbook/issues/new?title=Issue%20on%20page%20%2Fpages/procedures/tracker.html&body=Your%20issue%20content%20here."
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -333,7 +375,7 @@ title="Open an issue"
       </li>
       
       <li>
-        <a href="https://github.com/ekuw/ask-jgi-handbook/edit/main/pages/procedures/tracker.md"
+        <a href="https://github.com/Jean-Golding-Institute/ask-jgi-handbook/edit/main/pages/procedures/tracker.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -398,41 +440,12 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#automatic-ticket-updates">
-   Automatic ticket updates
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#filling-out-the-tracker">
-   Filling out the tracker
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
@@ -444,24 +457,6 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#automatic-ticket-updates">
-   Automatic ticket updates
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#filling-out-the-tracker">
-   Filling out the tracker
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -478,106 +473,11 @@ Ask-JGI tracker, which can be found
 <a class="reference external" href="https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Lists/AskJGI%20tracker/Open%20Items.aspx">here</a>.</p>
 <p>See below for more information on the following:</p>
 <ul class="simple">
-<li><p><a class="reference internal" href="#ticket-numbers"><span class="std std-ref">How automatic tracker updates work</span></a></p></li>
-<li><p><a class="reference internal" href="#filler"><span class="std std-ref">How to fill out the Ask-JGI tracker</span></a></p></li>
+<li><p><a class="reference internal" href="ticket-updates.html#ticket-numbers"><span class="std std-ref">How automatic tracker updates work</span></a></p></li>
+<li><p><a class="reference internal" href="update-tracker.html#filler"><span class="std std-ref">How to fill out the Ask-JGI tracker</span></a></p></li>
 </ul>
-<section id="automatic-ticket-updates">
-<span id="ticket-numbers"></span><h2>Automatic ticket updates<a class="headerlink" href="#automatic-ticket-updates" title="Permalink to this headline">#</a></h2>
-<p>When a new email is received in the Ask-JGI mailbox an automated
-response is generated, which looks something like:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Thank</span> <span class="n">you</span> <span class="k">for</span> <span class="n">your</span> <span class="n">Ask</span><span class="o">-</span><span class="n">JGI</span> <span class="n">enquiry</span><span class="o">.</span> <span class="n">It</span> <span class="n">has</span> <span class="n">been</span> <span class="n">received</span> <span class="n">by</span> <span class="n">our</span> <span class="n">team</span>
-<span class="ow">and</span> <span class="n">you</span> <span class="n">should</span> <span class="n">receive</span> <span class="n">a</span> <span class="n">response</span> <span class="n">within</span> <span class="mi">5</span> <span class="n">working</span> <span class="n">days</span><span class="o">.</span> 
-
-<span class="n">Please</span> <span class="n">feel</span> <span class="n">free</span> <span class="n">to</span> <span class="n">reply</span> <span class="n">to</span> <span class="n">this</span> <span class="n">email</span> <span class="k">if</span> <span class="n">you</span> <span class="n">want</span> <span class="n">to</span> <span class="n">provide</span> <span class="nb">any</span>
-<span class="n">supplementary</span> <span class="n">information</span> <span class="n">to</span> <span class="n">your</span> <span class="n">question</span><span class="o">.</span> <span class="n">Just</span> <span class="n">make</span> <span class="n">sure</span> <span class="n">you</span> <span class="n">either</span>
-<span class="n">reply</span> <span class="n">directly</span> <span class="n">to</span> <span class="n">this</span> <span class="n">email</span><span class="p">,</span> <span class="ow">or</span> <span class="k">else</span> <span class="n">include</span> <span class="n">the</span> <span class="n">phrase</span> <span class="n">somewhere</span> <span class="ow">in</span> 
-<span class="n">the</span> <span class="n">email</span><span class="p">:</span> <span class="p">{</span><span class="n">AskJGI</span><span class="o">-</span><span class="mi">110</span><span class="p">}</span><span class="o">.</span> <span class="n">This</span> <span class="n">helps</span> <span class="n">us</span> <span class="n">to</span> <span class="n">track</span> <span class="n">how</span> <span class="n">the</span> <span class="n">AskJGI</span> <span class="n">service</span> 
-<span class="ow">is</span> <span class="n">used</span><span class="o">.</span>
-
-<span class="n">Suggested</span> <span class="n">additional</span> <span class="n">information</span><span class="p">:</span>
- <span class="mf">1.</span> <span class="n">Your</span> <span class="n">research</span> <span class="n">question</span>
- <span class="mf">2.</span> <span class="n">Any</span> <span class="n">relevant</span> <span class="n">papers</span> <span class="o">/</span> <span class="n">draft</span> <span class="n">manuscripts</span> <span class="n">etc</span><span class="o">.</span>
- <span class="mf">3.</span> <span class="n">A</span> <span class="n">description</span> <span class="n">of</span> <span class="n">your</span> <span class="n">data</span> <span class="p">(</span><span class="ow">and</span> <span class="n">a</span> <span class="n">sample</span> <span class="k">if</span> <span class="n">you</span> <span class="n">can</span> <span class="n">send</span> <span class="n">it</span><span class="p">)</span>
- <span class="mf">4.</span> <span class="n">Any</span> <span class="n">relevant</span> <span class="n">analysis</span> <span class="n">scripts</span><span class="o">/</span><span class="n">code</span> <span class="n">that</span> <span class="n">you</span> <span class="n">have</span> <span class="n">produced</span> <span class="n">so</span> <span class="n">far</span><span class="o">.</span>
-
-<span class="n">If</span> <span class="n">you</span> <span class="n">need</span> <span class="n">a</span> <span class="n">reply</span> <span class="n">more</span> <span class="n">urgently</span> <span class="n">then</span> <span class="n">please</span> <span class="n">reply</span> <span class="n">to</span> <span class="n">this</span> <span class="n">email</span> <span class="ow">and</span>
-<span class="n">we</span> <span class="n">will</span> <span class="n">aim</span> <span class="n">to</span> <span class="n">get</span> <span class="n">back</span> <span class="n">to</span> <span class="n">you</span> <span class="n">sooner</span><span class="o">.</span>
-</pre></div>
+<div class="toctree-wrapper compound">
 </div>
-<p>Note the {AskJGI-110} in the text above. The number corresponds to
-the Ask-JGI ticket number (110 in this example), which increments with each newly received
-query. This number acts as a unique identifier for the email thread,
-which is then used to open a new ticket in the Ask-JGI tracker. All
-subsequent emails that contain this same identifier will be associated
-with the newly created ticket (so that the ticket gets updated with
-each new email in the thread).</p>
-</section>
-<section id="filling-out-the-tracker">
-<span id="filler"></span><h2>Filling out the tracker<a class="headerlink" href="#filling-out-the-tracker" title="Permalink to this headline">#</a></h2>
-<p>When a new Ask-JGI query is received and an automatic reply is sent,
-a new ticket is opened on the Ask-JGI tracker. This will look
-something like the entry below:</p>
-<img alt="../../_images/tracker_screenshot.png" src="../../_images/tracker_screenshot.png" />
-<p></br></br>
-Some of the information is automatically filled out, as shown in the
-image above. The <strong>Who</strong> field is updated with the email address of
-the query sender, the <strong>Query</strong> field is filled with the email title,
-and the date of the query (<strong>Date opened</strong>) and the last time the
-query was updated (<strong>Date updated</strong> – the
-date of the latest email in the thread associated with that query) are
-set.</p>
-<ol class="simple">
-<li><p>Open the ticket by clicking on the title under the <strong>Query</strong> field
-heading. You will see the automatically set <strong>Who</strong>, <strong>Query</strong>, and
-dates fields:</p></li>
-</ol>
-<img alt="../../_images/ticket_top.png" src="../../_images/ticket_top.png" />
-<p></br></br>
-2.  If the title of the email is obscure or could be made more concise,
-change the <strong>Query</strong> field to something more meaningful and easy to
-understand.</br>
-3.  The <strong>Status</strong> field is automatically set to “New” for newly
-opened tickets. Once you have started work on your query, this
-status should be changed to “In progress.”</p>
-<img alt="../../_images/ticket_status.png" src="../../_images/ticket_status.png" />
-<p></br></br>
-4. The <strong>Notes</strong> field should be used to make any notes/supplementary
-details on the status of the query.</p>
-<img alt="../../_images/ticket_notes.png" src="../../_images/ticket_notes.png" />
-<p></br></br>
-5. Add your name / email address under the <strong>Assigned to</strong>
-field. There is also an <strong>Assigned to 2</strong> field. This can be used
-e.g. if you are working jointly on a query with another team
-member. Otherwise it can be left blank.</p>
-<img alt="../../_images/ticket_assign.png" src="../../_images/ticket_assign.png" />
-<p></br></br>
-6. Select the Faculty that the person who submitted the query is
-associated with. This may require some Google searching if the
-information is not included in their email. Note that there is a drop
-down list for this, but new options can be added as free text. Please
-take care not to duplicate entries (e.g. <em>Science</em> and <em>science</em> would
-show up as different faculties and this is inconvenient for analytics
-and reporting later on).</p>
-<img alt="../../_images/ticket_faculty.png" src="../../_images/ticket_faculty.png" />
-<p></br></br>
-7. Select the School that the person who submitted the query is
-associated with. Note that there is the option to select “External”
-for contacts from outside the University of Bristol.</p>
-<img alt="../../_images/ticket_school.png" src="../../_images/ticket_school.png" />
-<p></br></br>
-8. Select all tags that apply from the drop-down list under the
-<strong>Tags</strong> field.</p>
-<img alt="../../_images/ticket_tags.png" src="../../_images/ticket_tags.png" />
-<p></br></br>
-9. Record the number of hours spent on a given task in the <strong>Time
-Allocation</strong> field. This includes time taken to respond to emails,
-setting up and attending meetings with service users, and
-investigating the question itself (be it reviewing code,
-data, research, etc.). If you think a query is going to take more
-than 5 hours of your time, discuss this with your data science
-supervisor.
-</br></br></p>
-</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -607,17 +507,17 @@ supervisor.
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="indico.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="time-allocation.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Indico</p>
+            <p class="prev-next-title">Time allocation for queries</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="../resources/other-services.html" title="next page">
+    <a class='right-next' id="next-link" href="ticket-updates.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Related services</p>
+        <p class="prev-next-title">Automatic ticket updates</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
