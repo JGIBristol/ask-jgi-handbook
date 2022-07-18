@@ -19,6 +19,9 @@ parts:
     sections:
     - file: pages/procedures/indico
   - file: pages/procedures/tracker
+    sections:
+    - file: pages/procedures/ticket-updates
+    - file: pages/procedures/update-tracker
 - caption: Resources
   chapters:
   - file: pages/resources/other-services
