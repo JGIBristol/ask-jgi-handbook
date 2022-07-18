@@ -1,4 +1,5 @@
-# Data science shifts
+(organization)=
+# Shift organization
 
 Ask-JGI shifts will be undertaken by Ask-JGI team members in 2 week blocks. 
 At least for the initial few months of the 2021-22 academic year,
@@ -94,9 +95,4 @@ and PhD students in all faculties and departments.
 When a query is picked up, Ask-JGI team members should report the number of hours
 spent addressing that query, and they will be paid for their
 consultation at the hourly demonstrator rate. 
-
-More information can be found in the following:
-- [How to sign up for shifts](signup)
-- [Ask-JGI tasks](tasks)
-- [Claiming payment for hours worked](payment)
 
