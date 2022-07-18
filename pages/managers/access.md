@@ -21,7 +21,9 @@ All new students will need access to the Ask-JGI mailbox.
 
 Access to shared mailboxes can be managed via the IT Services [shared
 mailboxes admin tool](https://www.bristol.ac.uk/it-services/applications/shared-mailboxes/sharedmailboxes)
-as described in these [instructions for requesting and managing shared mailboxes](https://uob.sharepoint.com/sites/systemsupport/SitePages/online-shared-mailbox-admin.aspx).
+as described in these [instructions for requesting and managing shared
+mailboxes](https://uob.sharepoint.com/sites/systemsupport/SitePages/online-shared-mailbox-admin.aspx). 
+Ask-JGI mailbox access can be managed directly through [this link](https://www.bristol.ac.uk/it-services/applications/shared-mailboxes/sharedmailbox/MDAwNDk4NTY).
 
 
 (tracker_access)=
