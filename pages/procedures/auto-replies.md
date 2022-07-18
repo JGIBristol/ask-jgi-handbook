@@ -1,3 +1,4 @@
+(auto-replies)=
 # Automatic email replies
 
 When a new email is received in the Ask-JGI mailbox an automated

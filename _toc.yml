@@ -15,14 +15,16 @@ parts:
     - file: pages/shifts/payment
   - file: pages/procedures/procedures
     sections:
+    - file: pages/procedures/queries
     - file: pages/procedures/auto-replies
-  - file: pages/procedures/meetings
-    sections:
-    - file: pages/procedures/indico
+    - file: pages/procedures/time-allocation
   - file: pages/procedures/tracker
     sections:
     - file: pages/procedures/ticket-updates
     - file: pages/procedures/update-tracker
+  - file: pages/procedures/meetings
+    sections:
+    - file: pages/procedures/indico
 - caption: Resources
   chapters:
   - file: pages/resources/other-services
