@@ -2,7 +2,7 @@
 # Shift organization
 
 Ask-JGI shifts will be undertaken by Ask-JGI team members in 2 week blocks. 
-At least for the initial few months of the 2021-22 academic year,
+At least for the initial month of a new Ask-JGI student cohort year,
 there will be up to 2 Ask-JGI team members "on duty" at any one time. The shift
 blocks are intended to follow the booking pattern illustrated below,
 with a staggered shift hand-over every other week. 
