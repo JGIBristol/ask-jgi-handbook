@@ -17,6 +17,7 @@ parts:
     sections:
     - file: pages/procedures/queries
     - file: pages/procedures/auto-replies
+    - file: pages/procedures/arranging-meetings      
     - file: pages/procedures/time-allocation
   - file: pages/procedures/tracker
     sections:
