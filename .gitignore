@@ -106,7 +106,6 @@ celerybeat.pid
 .env
 .venv
 env/
-ask-jgi-env/
 venv/
 ENV/
 env.bak/
