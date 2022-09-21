@@ -1,7 +1,8 @@
 # Ask-JGI Student Recruitment
 
 This section outlines the (suggested) procedure for advertising and
-recruiting new Ask-JGI student cohorts. 
+recruiting new Ask-JGI student cohorts. Recruitment calls are hosted
+on the JGI webpage [here](https://www.bristol.ac.uk/golding/ask-jgi/ask-jgi-phd-recruitment/).
 
 Ask-JGI aims to recruit **students undertaking a PhD at the University
 of Bristol** in a technical domain, where they are developing skills
