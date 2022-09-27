@@ -3,11 +3,6 @@
 
 ### Temporary Staffing Service (TSS) Claims
 
-```{warning}
-The method for claiming payment through TSS is changing in
-January 2022. This page will be updated at the end of January to
-reflect new procedure.
-```
 To claim for hours worked each month, Ask-JGI team members will
 need to complete their timesheet and send the form to
 their Ask-JGI manager for approval. 

@@ -107,6 +107,7 @@ Scientists will be happy to review any email before you send it.
 
 ```{note}
 Remember to update the Ask-JGI tracker after a meeting to reflect what has
-happened and what is expected to happen next (if any followup is expected). Update the status field to indicate whether the query is
+happened and what is expected to happen next (if any followup is expected). 
+Update the status field to indicate whether the query is
 resolved or still in progress.
 ```

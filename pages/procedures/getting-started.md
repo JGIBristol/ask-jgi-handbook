@@ -13,6 +13,7 @@ that you are able to access some platforms, pages and groups. Please
 see the sections below for instructions on how to get yourself ready
 for your first shift. 
 
+(communicating-slack)=
 ## Communicating on Slack
 
 The platform that the Ask-JGI team uses to stay in touch on a
@@ -29,16 +30,14 @@ Once you have signed in you should ask the Ask-JGI coordinator to add
 you to the private ask-jgi channel, which is the channel that the team
 uses to communicate about all things Ask-JGI.
 
-## Getting set up with indico
+## Getting set up with Sharepoint
 
 While working with Ask-JGI you will be expected to
 attend weekly catch up meetings with the rest of the team. 
 
-The Ask-JGI weekly meetings are managed through
-[indico](https://indico.cern.ch/). You will need to set up an account
-to be able to access Ask-JGI meeting agendas online. Please find
-information about indico [here](indico), and instructions on
-registering for an account [here](account).
+The Ask-JGI weekly meetings are managed through the Ask-JGI
+[sharepoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/AskJGI). 
+Login using your UoB account.
 
 ## Ask-JGI mailbox access
 

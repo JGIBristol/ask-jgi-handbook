@@ -83,8 +83,7 @@ table td#shift5 {background-color:white; color:white; text-align:center; line-he
 </br></br>
 
 For each 2 week shift block a base salary of 2 hours, paid at a
-demonstrator hourly fee, will
-be paid.
+demonstrator hourly fee, will be paid.
 This is to cover the monitoring of the Ask-JGI mailbox / slack channel and attendance
 at the weekly Ask-JGI [data science meetings](meetings). 
 

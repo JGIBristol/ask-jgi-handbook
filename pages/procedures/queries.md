@@ -37,8 +37,10 @@
   [here](ticket_numbers).
    <br/><br/>
 6. The Ask-JGI team member should use the notes section of their query
-  ticket on the Ask-JGI tracker to record the status and current
+  ticket on the Ask-JGI [tracker](tracker) to record the status and current
   actions from their query. 
    <br/><br/>
 7. Once the query has been resolved the ticket on the tracker should be
   marked as resolved.
+
+
