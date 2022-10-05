@@ -43,4 +43,9 @@
 7. Once the query has been resolved the ticket on the tracker should be
   marked as resolved.
 
+  ```note
+You can store any files related to your queries [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects?csf=1&web=1&e=rjQdqF).
+Remember to give any folders an informative name, so future shifters can access your files.
+  ```
+
 

@@ -32,11 +32,16 @@ uses to communicate about all things Ask-JGI.
 
 ## Getting set up with Sharepoint
 
+Ask-JGI students should request access to the 
+Ask-JGI sharepoint folder, which can be found [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=imr5IE).
+In this folder you will be able to access weekly-agendes 
+for meetings, and store files related to any of your queries.
+
 While working with Ask-JGI you will be expected to
 attend weekly catch up meetings with the rest of the team. 
-
 The Ask-JGI weekly meetings are managed through the Ask-JGI
-[sharepoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/AskJGI). 
+[sharepoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=YS5XKF). 
+
 Login using your UoB account.
 
 ## Ask-JGI mailbox access
