@@ -22,10 +22,8 @@ downloaded and completed by the candidate and the Ask-JGI manager. The form must
 be sent to TSS at tss-cag@bristol.ac.uk **at least 3 weeks** prior to
 the commencement of Ask-JGI activities.
 
-
 To claim payment each month, students will need to send a completed
 time sheet to the JGI Manager, who will enter their hours on MyERP.
-
 
 There are some cases where the above criteria do not apply (see below subsections).
 
