@@ -1,4 +1,4 @@
-(arranging-meetings)+
+(arranging-meetings)=
 # Arranging meetings
 
 It is common to receive queries in the mailbox that require a short
@@ -24,7 +24,7 @@ number) and suggest some times that you are able to meet.
   ```
   Dear XXX, 
   
-  Many thanks for geting in contact with Ask-JGI. Would it be useful
+  Many thanks for getting in contact with Ask-JGI. Would it be useful
   to have an introductory Teams call (30 minutes, say) to go over your
   query in a little more detail and see how we might be able to
   support? 
@@ -46,7 +46,7 @@ number) and suggest some times that you are able to meet.
   ```
   Dear XXX, 
   
-  Many thanks for geting in contact with Ask-JGI. Would it be useful
+  Many thanks for getting in contact with Ask-JGI. Would it be useful
   to have an introductory Teams call (30 minutes, say) to go over your
   query in a little more detail and see how we might be able to
   support? 
@@ -76,7 +76,7 @@ Sending summary emails are important:
 - It is helpful to repeat your key takeaways from the meetings to make
 sure that everyone attending the meeting has left on the same page.
 - Having a written record from the meeting is helpful for any future
-  follow-up with querier (particularly if the followup is handled by
+  follow-up with querier (particularly if the follow-up is handled by
   another team member).
   
 When composing your summary emails try to include the following:
@@ -107,7 +107,7 @@ Scientists will be happy to review any email before you send it.
 
 ```{note}
 Remember to update the Ask-JGI tracker after a meeting to reflect what has
-happened and what is expected to happen next (if any followup is expected). 
+happened and what is expected to happen next (if any follow-up is expected). 
 Update the status field to indicate whether the query is
 resolved or still in progress.
 ```

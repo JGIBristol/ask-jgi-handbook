@@ -13,7 +13,7 @@ better addressed by other university services, some of which are listed below.
   statistics-clinic@bristol.ac.uk</br></br>
 - [Advanced Computing Research
   Centre](http://www.bris.ac.uk/acrc/contact/): The Research Software
-  Engineering (RSE) team at the ACRC offer advice and support through thier
+  Engineering (RSE) team at the ACRC offer advice and support through their
   ask-RSE service. They also deliver [training courses](https://www.bristol.ac.uk/acrc/acrc-training/) on python,
   software best practice and version control (among other things). It
   is also worth noting that RSEs can be contracted to conduct project

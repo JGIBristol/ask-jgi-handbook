@@ -28,14 +28,14 @@ To book an available shift block:
 book in the Outlook calendar and select "Edit". From the drop down
 menu, select the option to edit **This event**.
 ```{important}
-It's important that you edit only one occurence of the event and not
+It's important that you edit only one occurrence of the event and not
 the series. Make sure you select **This event** from the "Edit"
 options.
 ```
 ::::{image} ../../images/shift_edit.png
 ::::
 </br></br>
-2. Change the event title from **Shift 1: Open** or **Shift 2:: Open**
+2. Change the event title from **Shift 1: Open** or **Shift 2: Open**
 to your name (the shift is being booked by Bob in the example
 below). </br></br>
 3. Set the event to show as **Busy**, as shown in the example below.

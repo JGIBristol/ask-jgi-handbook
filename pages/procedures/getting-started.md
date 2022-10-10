@@ -27,20 +27,20 @@ Sign up to join the **Bristol Data Science Network** Slack Workspace
 [here](https://www.bristol.ac.uk/golding/get-involved/build-your-network/slack/).
 
 Once you have signed in you should ask the Ask-JGI coordinator to add
-you to the private ask-jgi channel, which is the channel that the team
+you to the private `#ask-jgi` channel, which is the channel that the team
 uses to communicate about all things Ask-JGI.
 
-## Getting set up with Sharepoint
+## Getting set up with SharePoint
 
 Ask-JGI students should request access to the 
-Ask-JGI sharepoint folder, which can be found [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=imr5IE).
-In this folder you will be able to access weekly-agendes 
+Ask-JGI SharePoint folder, which can be found [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=imr5IE).
+In this folder you will be able to access weekly-agendas 
 for meetings, and store files related to any of your queries.
 
 While working with Ask-JGI you will be expected to
-attend weekly catch up meetings with the rest of the team. 
+attend weekly catch-up meetings with the rest of the team. 
 The Ask-JGI weekly meetings are managed through the Ask-JGI
-[sharepoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=YS5XKF). 
+[SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=YS5XKF). 
 
 Login using your UoB account.
 

@@ -40,6 +40,6 @@ A meeting agenda will usually include the following:
 ##  Meeting agendas
 
 The Ask-JGI data science meetings agendas are currently maintained on
-the [Ask-JGI sharepoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Weekly%20meetings?csf=1&web=1&e=UWdXAH)
+the [Ask-JGI SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Weekly%20meetings?csf=1&web=1&e=UWdXAH)
 
 
