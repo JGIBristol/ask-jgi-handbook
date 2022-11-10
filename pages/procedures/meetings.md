@@ -3,7 +3,7 @@
 
 **Time:** Wednesday at 11:00 </br>
 **Place:** Online (Zoom) </br>
-**Meeting agendas:** https://indico.cern.ch/category/14729/
+**Meeting agendas:** https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Weekly%20meetings?csf=1&web=1&e=UWdXAH
 
 All Ask-JGI team members are expected to attend the weekly meetings to
 keep abreast of relevant news and developments. Team members will
@@ -32,19 +32,14 @@ A meeting agenda will usually include the following:
 - A high-level update from the Ask-JGI coordinator.
 - An update from the current shifters about the Ask-JGI mailbox and
   any ongoing activities.
+- A list of tasks not included in the mailbox
 - (Optional) An update from and Ask-JGI team member on an ongoing
   activity or past query.
   
-  
+(meeting-agenda)=
 ##  Meeting agendas
 
 The Ask-JGI data science meetings agendas are currently maintained on
-[indico](https://indico.cern.ch/). If you are new to indico, you can
-find more information on using indico [here](indico).
+the [Ask-JGI SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Weekly%20meetings?csf=1&web=1&e=UWdXAH)
 
-In order to be able to view the meeting agendas you will need an
-[indico account](account), since the agenda pages are protected. 
-
-Ask-JGI meeting agendas can be accessed by members with access rights
-[here](https://indico.cern.ch/category/14729/).
 

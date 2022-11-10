@@ -13,6 +13,7 @@ that you are able to access some platforms, pages and groups. Please
 see the sections below for instructions on how to get yourself ready
 for your first shift. 
 
+(communicating-slack)=
 ## Communicating on Slack
 
 The platform that the Ask-JGI team uses to stay in touch on a
@@ -26,19 +27,22 @@ Sign up to join the **Bristol Data Science Network** Slack Workspace
 [here](https://www.bristol.ac.uk/golding/get-involved/build-your-network/slack/).
 
 Once you have signed in you should ask the Ask-JGI coordinator to add
-you to the private ask-jgi channel, which is the channel that the team
+you to the private `#ask-jgi` channel, which is the channel that the team
 uses to communicate about all things Ask-JGI.
 
-## Getting set up with indico
+## Getting set up with SharePoint
+
+Ask-JGI students should request access to the 
+Ask-JGI SharePoint folder, which can be found [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=imr5IE).
+In this folder you will be able to access weekly-agendas 
+for meetings, and store files related to any of your queries.
 
 While working with Ask-JGI you will be expected to
-attend weekly catch up meetings with the rest of the team. 
+attend weekly catch-up meetings with the rest of the team. 
+The Ask-JGI weekly meetings are managed through the Ask-JGI
+[SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=YS5XKF). 
 
-The Ask-JGI weekly meetings are managed through
-[indico](https://indico.cern.ch/). You will need to set up an account
-to be able to access Ask-JGI meeting agendas online. Please find
-information about indico [here](indico), and instructions on
-registering for an account [here](account).
+Login using your UoB account.
 
 ## Ask-JGI mailbox access
 
