@@ -8,6 +8,11 @@ This handbook uses [Jupyter Book](http://jupyterbook.org/).
 
 The current live version of this book can be found [here](https://jean-golding-institute.github.io/ask-jgi-handbook/pages/intro.html).
 
+## Quickstart 
+
+* Install dependencies: `pip install -r requirements.txt`
+* Build book: `jupyter-book build .`
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

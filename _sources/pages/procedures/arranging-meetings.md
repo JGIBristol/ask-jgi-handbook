@@ -1,4 +1,4 @@
-(arranging-meetings)+
+(arranging-meetings)=
 # Arranging meetings
 
 It is common to receive queries in the mailbox that require a short
@@ -17,51 +17,48 @@ If meeting with the querier seems to be the most productive next
 step, reply to their email (including the tracking identification
 number) and suggest some times that you are able to meet. 
 
-- If you use
-  your university Outlook calendar, you can either suggest that they
-  book a meeting directly into your calendar at a time convenient for
-  them. For example:
-  ```
-  Dear XXX, 
-  
-  Many thanks for geting in contact with Ask-JGI. Would it be useful
-  to have an introductory Teams call (30 minutes, say) to go over your
-  query in a little more detail and see how we might be able to
-  support? 
-  I can also explain how we might go about assisting and work out
-  which of our team would be best placed to help you.
-  
-  I’ve cc’d my email address into this email – if you can get access to
-  my calendar then I’m happy for you to schedule something at a time that
-  suits you.
-  
-  Kind regards,
-  XXX
-  {AskJGI-XXX}
-  ```
-
-- or, you can ask permission to book a meeting in their calendar at
-  a time where their calendar shows them as being free.
+- If you use your university Outlook calendar, you can either suggest that they book a meeting directly into your calendar at a time convenient for them.
   For example:
-  ```
-  Dear XXX, 
+
+  > Dear XXX, 
+  > 
+  > Many thanks for getting in contact with Ask-JGI. Would it be useful
+  > to have an introductory Teams call (30 minutes, say) to go over your
+  > query in a little more detail and see how we might be able to
+  > support? 
+  > 
+  > I can also explain how we might go about assisting and work out
+  > which of our team would be best placed to help you.
+  > 
+  > I’ve cc’d my email address into this email – if you can get access to
+  > my calendar then I’m happy for you to schedule something at a time that
+  > suits you.
+  > 
+  > Kind regards,
+  > XXX
+  > {AskJGI-XXX}
+
+- or, you can ask permission to book a meeting in their calendar at a time where their calendar shows them as being free.
+  For example:
   
-  Many thanks for geting in contact with Ask-JGI. Would it be useful
-  to have an introductory Teams call (30 minutes, say) to go over your
-  query in a little more detail and see how we might be able to
-  support? 
-  I can also explain how we might go about assisting and work out
-  which of our team would be best placed to help you.
-  
-  If you'd like me to set up a meeting then please let me know. I
-  could do tomorrow afternoon or the following morning, for example?
-  Alternatively I can try to find a slot in your calendar if it is up
-  to date? 
-  
-  Kind regards,
-  XXX
-  {AskJGI-XXX}
-  ```
+  > Dear XXX, 
+  > 
+  > Many thanks for getting in contact with Ask-JGI. Would it be useful
+  > to have an introductory Teams call (30 minutes, say) to go over your
+  > query in a little more detail and see how we might be able to
+  > support? 
+  > 
+  > I can also explain how we might go about assisting and work out
+  > which of our team would be best placed to help you.
+  > 
+  > If you'd like me to set up a meeting then please let me know. I
+  > could do tomorrow afternoon or the following morning, for example?
+  > Alternatively I can try to find a slot in your calendar if it is up
+  > to date? 
+  > 
+  > Kind regards,
+  > XXX
+  > {AskJGI-XXX}
 
 (meeting-followup)=
 ## Following up after a meeting
@@ -76,7 +73,7 @@ Sending summary emails are important:
 - It is helpful to repeat your key takeaways from the meetings to make
 sure that everyone attending the meeting has left on the same page.
 - Having a written record from the meeting is helpful for any future
-  follow-up with querier (particularly if the followup is handled by
+  follow-up with querier (particularly if the follow-up is handled by
   another team member).
   
 When composing your summary emails try to include the following:
@@ -107,6 +104,7 @@ Scientists will be happy to review any email before you send it.
 
 ```{note}
 Remember to update the Ask-JGI tracker after a meeting to reflect what has
-happened and what is expected to happen next (if any followup is expected). Update the status field to indicate whether the query is
+happened and what is expected to happen next (if any follow-up is expected). 
+Update the status field to indicate whether the query is
 resolved or still in progress.
 ```

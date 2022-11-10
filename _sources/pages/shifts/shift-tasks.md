@@ -45,3 +45,8 @@ the status of the mailbox and any ongoing queries.
    important to keep this up to date to reflect the status of all
    mailbox queries.
 
+  ```{note}
+   When there are no queries, there may be other work that needs
+   to be done. Check the [meeting agendas](meeting-agenda) for any tasks, or feel free to 
+   ask the Ask-JGI team coordinator on [the Ask-JGI Slack](communicating-slack).  
+   ```
