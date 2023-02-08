@@ -50,10 +50,11 @@ member. Otherwise it can be left blank.
 6. Select the Faculty that the person who submitted the query is
 associated with. This may require some Google searching if the
 information is not included in their email. Note that there is a drop
-down list for this, but new options can be added as free text. Please
-take care not to duplicate entries (e.g. _Science_ and _science_ would
-show up as different faculties and this is inconvenient for analytics
-and reporting later on). 
+down list for this, but new options can be added from the main tracker
+page: click **Faculty** > **Column settings** > **Edit**, and add new
+choices to the list. Please take care not to duplicate entries (e.g.
+_Science_ and _science_ would show up as different faculties and this
+is inconvenient for analytics and reporting later on). 
 :::{image} ../../images/ticket_faculty.png
 :::
 </br></br>
