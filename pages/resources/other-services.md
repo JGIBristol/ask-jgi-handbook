@@ -36,8 +36,11 @@ better addressed by other university services, some of which are listed below.
   that will foster interdisciplinary research in the area of data science,
   as well as support funding calls through the Alan Turing Institute. </br></br>
 
-#### Signposting email text
+## Signposting email text
 
+You can use the following to explain the available services to university staff:
+
+```
 Other resources are available for help with data science related queries at the 
 Univeristy of Bristol.
 - For help with coding or data intensive projects that may need advanced computational
@@ -56,3 +59,4 @@ Univeristy of Bristol.
   
 If you are not sure which service will be most helpful to you, Ask-JGI can speak 
 with you about your needs.
+```
