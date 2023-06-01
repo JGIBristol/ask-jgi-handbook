@@ -19,6 +19,7 @@ parts:
     - file: pages/procedures/auto-replies
     - file: pages/procedures/arranging-meetings      
     - file: pages/procedures/time-allocation
+    - file: pages/procedures/file-storage
   - file: pages/procedures/tracker
     sections:
     - file: pages/procedures/ticket-updates
