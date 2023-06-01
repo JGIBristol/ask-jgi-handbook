@@ -1,41 +1,42 @@
 # Ask-JGI Student Recruitment
 
-This section outlines the (suggested) procedure for advertising and
-recruiting new Ask-JGI student cohorts. Recruitment calls are hosted
-on the JGI webpage [here](https://www.bristol.ac.uk/golding/ask-jgi/ask-jgi-phd-recruitment/).
+This section outlines the procedure for advertising and recruiting 
+new Ask-JGI student cohorts. 
 
 Ask-JGI aims to recruit **students undertaking a PhD at the University
 of Bristol** in a technical domain, where they are developing skills
 that can be used to advise others across the university with their own
 technical tasks in the areas of statistics and data science.
 
+Recruitment takes place annually (new cohort starting in October), 
+but we are happy to receive speculative applications all year round.
+
+The recruitment call from the current/previous year is archived on the JGI
+webpage [here](https://www.bristol.ac.uk/golding/ask-jgi/ask-jgi-phd-recruitment/).
+
 ## Cohort recruitment timeline
 
-- July 1st: Draft advertisement webpage, with links to previous Ask-JGI
+_These are indicative dates. More details will be given each year._
+
+- Start of July: Draft advertisement webpage, with links to previous Ask-JGI
   student blogs
-- July 20th: Release advertisement
-- August 30th: Deadline for applications
-- September 5th: Email successful applicants and set up TSS contracts
+- Mid July: Release advertisement
+- End of August: Deadline for applications
+- Start of September: Email successful applicants and set up TSS contracts
   (3 week turnaround)
-- October 1st: Start date.
+- Start of October: Start date.
 
 
 ## Recruitment criteria
 
-The webpage used in the initial round of Ask-JGI student recruitment
-can be found here:
+The prerequisites for recruitment are as follows:
 
-https://www.bristol.ac.uk/golding/ask-jgi/ask-jgi-phd-recruitment/
-
-This should be updated for future rounds. 
-
-The requirements for these posts are as follows:
 - Students must be currently studying for a PhD at the University of
   Bristol
 - Students must have completed at least one year of their PhD studies
   by the time of their application
 - Students must have experience in data science, statistics and
-  programming
+  programming (for example: R, Python)
 
 
 ## Advertising
@@ -74,5 +75,9 @@ their students aware of this:
 - [UKRI CDT in Interactive Artificial
   Intelligence](https://www.bristol.ac.uk/cdt/interactive-ai/) 
   - [Prof. Peter Flach](https://research-information.bris.ac.uk/en/persons/peter-a-flach) (Director)
+- [Bristol Medical School](http://www.bristol.ac.uk/medical-school/research/)
+  - [Prof. Matt Hickman](https://research-information.bris.ac.uk/en/persons/matt-hickman) (Head of School) and brms-pgradmin@bristol.ac.uk (Postgraduate Research Admin team)
+
+Additionally, this opportunity can also be advertised in [Bristol Doctoral College](http://www.bristol.ac.uk/doctoral-college/contacts/) newsletter. 
   
   
