@@ -3,7 +3,7 @@
 This section outlines the procedure for advertising and recruiting 
 new Ask-JGI student cohorts. 
 
-Recruitment takes place annually (new cohort starting in Septemeber), 
+Recruitment takes place annually (new cohort starting in October), 
 but we are happy to receive speculative applications all year round.
 
 The recruitment call from the previous year is available on the JGI
@@ -28,20 +28,16 @@ technical tasks in the areas of statistics and data science.
 
 ## Recruitment criteria
 
-The webpage used in the initial round of Ask-JGI student recruitment
-can be found here:
+The prerequisites for recruitment are as follows:
 
-https://www.bristol.ac.uk/golding/ask-jgi/ask-jgi-phd-recruitment/
-
-This should be updated for future rounds. 
-
-The requirements for these posts are as follows:
 - Students must be currently studying for a PhD at the University of
   Bristol
 - Students must have completed at least one year of their PhD studies
   by the time of their application
 - Students must have experience in data science, statistics and
-  programming
+  programming (R, Python)
+
+_This should be updated for future rounds._
 
 
 ## Advertising
