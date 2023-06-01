@@ -24,6 +24,7 @@ parts:
     - file: pages/procedures/ticket-updates
     - file: pages/procedures/update-tracker
   - file: pages/procedures/meetings
+  - file: pages/procedures/roadshow
 - caption: Resources
   chapters:
   - file: pages/resources/other-services
