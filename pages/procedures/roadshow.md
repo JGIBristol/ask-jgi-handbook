@@ -29,6 +29,9 @@ This is important to record, even if all that happened is that you gave the atte
 The tracker will automatically show the query as belonging to the data scientist who sent the email, but it can be updated to show the name of the attendee after the email was sent.
 ```
 
+There is a column in the Tracker called "Roadshow?"; please fill it in as "True" for any roadshow queries.
+This column can be left blank for non-roadshow queries.
+
 ## Advertising events
 
 Sometimes, staff data scientists will visit school or faculty meetings to advertise the roadshow, the Ask-JGI service, or the JGI more generally. 
