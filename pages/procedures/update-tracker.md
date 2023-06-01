@@ -37,9 +37,23 @@ the thread associated with that query) are set.
 :::{image} ../../images/ticket_status.png
 :::
 
-4.  The **Query topic** field...
+4.  The **Query topic** field describes the broad topic which the
+    query covers. This field is a set of tags so pick as many options
+    as are relevant to this query. If you find that the topic isn't
+    adequately described by any of the available tags, you can add a
+    new one on the main tracker page:
+    click **Faculty** > **Column settings** > **Edit**, and add new
+    choices to the list. Please take care not to duplicate entries (e.g.
+    _Natural language processing_ and _NLP_ would show up as different
+    options, which is inconvenient for analytics and reporting later on). 
+:::{image} ../../images/ticket_topic.png
+:::
 
-5.  The **Task for Ask-JGI** field...
+5.  The **Task for Ask-JGI** field is another collection of tags
+    describing the work which is required of the person assigned to the
+    task. New options can also be added from the main tracker page.
+:::{image} ../../images/ticket_task.png
+:::
 
 6.  Add your name / email address under the **Assigned to**
     field. There is also an **Assigned to 2** field. This can be used
@@ -69,10 +83,7 @@ the thread associated with that query) are set.
     associated with. This may require some Google searching if the
     information is not included in their email. Note that there is a drop
     down list for this, but new options can be added from the main tracker
-    page: click **Faculty** > **Column settings** > **Edit**, and add new
-    choices to the list. Please take care not to duplicate entries (e.g.
-    _Science_ and _science_ would show up as different faculties and this
-    is inconvenient for analytics and reporting later on). 
+    page.
 :::{image} ../../images/ticket_faculty.png
 :::
 
