@@ -1,6 +1,8 @@
 (query)=
 # Ask-JGI queries
 
+## How they work
+
 1.  Researchers email their queries to ask-jgi@bristol.ac.uk.
     <br><br>
 
@@ -35,3 +37,14 @@
 You can store any files related to your queries [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects?csf=1&web=1&e=rjQdqF).
 Remember to give any folders an informative name, so future shifters can access your files.
 ```
+
+## Query Categories
+The tracker contains fields for "Query topic" and "Task for Ask-JGI".
+These are so that the JGI can track what kind of query we recieve and what kind of help we offer most often.
+The different options for these fields are described below - if you are unsure which one to use, you can ask
+the team Slack channel or the team in the weekly meeting.
+
+### Query topic
+
+### Task for Ask-JGI
+
