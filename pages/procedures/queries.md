@@ -51,17 +51,17 @@ The current options in the tracker are:
 
 | Option | Meaning |
 | ------ | ------- |
-| Experimental Design | |
-| Ethics | |
-| GIS | |
-| ML | |
-| Natural Language Processing | |
-| Privacy/Security | |
-| Statistics | |
-| Support with application/bid | |
-| Talk/promotion | |
-| Visualisation | |
-| Web Scraping | |
+| Experimental Design | Looking for ideas on what to do with data, or how to best investigate something using data |
+| Ethics | The ethical considerations involved when dealing with data and data science techniques |
+| GIS | Geographic Information System - usually related to maps |
+| ML | Machine Learning |
+| Natural Language Processing | NLP - Processing human language |
+| Privacy/Security | Ideas about data security and privacy |
+| Statistics | Classical Statistics - i.e. making inference using a data sample, but not ML |
+| Support with application/bid | The JGI can offer letters of support and/or support applications and bids by University researchers |
+| Talk/promotion | A talk/event/promotion that may be of interest to the JGI |
+| Visualisation | Help with data visualisation; can be either coding support or advice |
+| Web Scraping | Automatically retrieving information from the web |
 
 ### Task for Ask-JGI
 This refers to the type of action that will be undertaken by the Data Scientist(s) assigned to this query.
