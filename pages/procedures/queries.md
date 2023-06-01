@@ -49,11 +49,32 @@ This refers to the broad area(s) of data science that the query is about.
 There may be more than one - e.g. a query may be about both Statistics and ML.
 The current options in the tracker are:
 
- -
+| Option | Meaning |
+| ------ | ------- |
+| Experimental Design | |
+| Ethics | |
+| GIS | |
+| ML | |
+| Natural Language Processing | |
+| Privacy/Security | |
+| Statistics | |
+| Support with application/bid | |
+| Talk/promotion | |
+| Visualisation | |
+| Web Scraping | |
 
 ### Task for Ask-JGI
 This refers to the type of action that will be undertaken by the Data Scientist(s) assigned to this query.
 There may be more than one - e.g. a query may require both Technical advice and Signposting.
 The current options in the tracker are:
 
- -
+| Option | Meaning |
+| ------ | ------- |
+| Technical advice | |
+| Signposting | |
+| Comments on document | |
+| Non technical advice | |
+| Rubber ducking | |
+| Quick email response only | |
+| Writing code | |
+
