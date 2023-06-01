@@ -1,8 +1,14 @@
 # Ask-JGI Student Recruitment
 
-This section outlines the (suggested) procedure for advertising and
-recruiting new Ask-JGI student cohorts. Recruitment calls are hosted
-on the JGI webpage [here](https://www.bristol.ac.uk/golding/ask-jgi/ask-jgi-phd-recruitment/).
+This section outlines the procedure for advertising and recruiting 
+new Ask-JGI student cohorts. 
+
+Recruitment takes place annually (new cohort starting in Septemeber), 
+but we are happy to receive speculative applications all year round.
+
+The recruitment call from the previous year is available on the JGI
+webpage [here](https://www.bristol.ac.uk/golding/ask-jgi/ask-jgi-phd-recruitment/)
+(hidden from the main website).
 
 Ask-JGI aims to recruit **students undertaking a PhD at the University
 of Bristol** in a technical domain, where they are developing skills
@@ -74,5 +80,7 @@ their students aware of this:
 - [UKRI CDT in Interactive Artificial
   Intelligence](https://www.bristol.ac.uk/cdt/interactive-ai/) 
   - [Prof. Peter Flach](https://research-information.bris.ac.uk/en/persons/peter-a-flach) (Director)
+- [Bristol Medical School](http://www.bristol.ac.uk/medical-school/research/)
+  - [Prof. Matt Hickman](https://research-information.bris.ac.uk/en/persons/matt-hickman) (Head of School) and brms-pgradmin@bristol.ac.uk (Postgraduate Research Admin team)
   
   
