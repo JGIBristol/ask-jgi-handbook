@@ -78,5 +78,7 @@ their students aware of this:
   - [Prof. Peter Flach](https://research-information.bris.ac.uk/en/persons/peter-a-flach) (Director)
 - [Bristol Medical School](http://www.bristol.ac.uk/medical-school/research/)
   - [Prof. Matt Hickman](https://research-information.bris.ac.uk/en/persons/matt-hickman) (Head of School) and brms-pgradmin@bristol.ac.uk (Postgraduate Research Admin team)
+
+Additionally, this oppotrunity can also be advertised in [Bristol Doctoral College](http://www.bristol.ac.uk/doctoral-college/contacts/) newsletter. 
   
   
