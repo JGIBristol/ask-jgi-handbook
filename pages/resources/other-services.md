@@ -5,12 +5,6 @@ Sign-posting is an important part of Ask-JGI. Some queries may be
 better addressed by other university services, some of which are listed below.
 ```
 
-- [Statistics
-  Clinic](https://www.bristolmathsresearch.org/statistical-science/stats-clinic/):
-  A free statistical consulting service offered to researchers at the
-  University of Bristol. </br>
-	  - Email contact:
-  statistics-clinic@bristol.ac.uk</br></br>
 - [Advanced Computing Research
   Centre](http://www.bris.ac.uk/acrc/contact/): The Research Software
   Engineering (RSE) team at the ACRC offer advice and support through their
@@ -37,4 +31,28 @@ better addressed by other university services, some of which are listed below.
   Support services in research data management, copyright enquiries,
   literature review.</br>
 	  - Email contact: lib-research-support@bristol.ac.uk</br></br>
+- [JGI Seedcorn Funding](https://www.bristol.ac.uk/golding/get-involved/funding/): We 
+  offer seed corn funding each year to support and promote activities 
+  that will foster interdisciplinary research in the area of data science,
+  as well as support funding calls through the Alan Turing Institute. </br></br>
 
+#### Signposting email text
+
+Other resources are available for help with data science related queries at the 
+Univeristy of Bristol.
+- For help with coding or data intensive projects that may need advanced computational
+  or storage resources the [Advanced Computing Research
+  Centre](http://www.bris.ac.uk/acrc/contact/) deliver training courses in coding, 
+  high performance computing and data storage. They can also be contracted to help 
+  with longer term projects.
+- For help writing the more technical aspects of grant proposals, as well as
+  ongoing help with short-term projects, [Research IT](https://www.bristol.ac.uk/research-it/about) 
+  are a useful resource.
+- For help with research data management, literature search and literacture reviews
+  using advanced search tools, [Library Research
+  Support](http://www.bristol.ac.uk/library/research-support/) is also available.
+- If you have an idea for an interdisciplinary research project and would like
+  funding to support a pilot, the JGI is happy to accept applications for seedcorn funding.
+  
+If you are not sure which service will be most helpful to you, Ask-JGI can speak 
+with you about your needs.
