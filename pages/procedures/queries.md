@@ -61,7 +61,7 @@ The current options in the tracker are:
 | Technical advice | Offered technical advice - on e.g. frameworks, languages, tooling, methodology |
 | Signposting | Pointed to a relevant resource |
 | Comments on document | Commented on a document sent by the user |
-| Non technical advice | Offered non-technical advice - on e.g. |
+| Non technical advice | Offered non-technical advice - on e.g. sharing ideas, funding suggestions, networking |
 | "Rubber ducking" | [Helped debug by acting as a sounding board](https://en.wikipedia.org/wiki/Rubber_duck_debugging) |
 | Quick email response only | Query resolved after a quick email response (or a few short emails) |
 | Writing code | Provided code for the user - either an example for them to learn from or a prototype |
