@@ -379,7 +379,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -395,6 +397,19 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-they-work">How they work</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#query-categories">Query Categories</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#query-topic">Query topic</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#task-for-ask-jgi">Task for Ask-JGI</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -406,32 +421,28 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="ask-jgi-queries">
 <span id="query"></span><h1>Ask-JGI queries<a class="headerlink" href="#ask-jgi-queries" title="Permalink to this heading">#</a></h1>
+<section id="how-they-work">
+<h2>How they work<a class="headerlink" href="#how-they-work" title="Permalink to this heading">#</a></h2>
 <ol class="arabic simple">
-<li><p>Researchers email their queries to <a class="reference external" href="mailto:ask-jgi&#37;&#52;&#48;bristol&#46;ac&#46;uk">ask-jgi<span>&#64;</span>bristol<span>&#46;</span>ac<span>&#46;</span>uk</a>.
-<br><br></p></li>
+<li><p>Researchers email their queries to <a class="reference external" href="mailto:ask-jgi&#37;&#52;&#48;bristol&#46;ac&#46;uk">ask-jgi<span>&#64;</span>bristol<span>&#46;</span>ac<span>&#46;</span>uk</a>.</p></li>
 <li><p>An <a class="reference internal" href="auto-replies.html#auto-replies"><span class="std std-ref">automatic email</span></a> is sent to the querier, as explained <a class="reference internal" href="auto-replies.html#auto-replies"><span class="std std-ref">here</span></a>.
-This email asks the querier for additional details (e.g. description of aim and problem, description or excerpt of data) and letting them know to expect a response within the next few days.
-<br><br></p></li>
+This email asks the querier for additional details (e.g. description of aim and problem, description or excerpt of data) and letting them know to expect a response within the next few days.</p></li>
 <li><p>The Ask-JGI student on shift will share the query in the Ask-JGI <strong>slack channel</strong>, and will either:</p>
 <ul class="simple">
 <li><p>confirm that they intend to reply to the query, or</p></li>
 <li><p>ask whether anyone else is available to do so.
 Noting the new query in the Slack channel gives those not on shift the opportunity to collaborate on the query if it is of interest to them, or falls within their own area of expertise.
 Likewise, the person on shift may not feel that they have the appropriate level of expertise in the relevant area.
-If this is the case it is also possible to ask for advice from the rest of the team on how to proceed, or to request support to answer the query.
-<br><br></p></li>
+If this is the case it is also possible to ask for advice from the rest of the team on how to proceed, or to request support to answer the query.</p></li>
 </ul>
 </li>
 <li><p>Once it has been agreed who will pick up the query, that team member is responsible for assigning the task to themselves on the <a class="reference internal" href="tracker.html#tracker"><span class="std std-ref">Ask-JGI tracker</span></a>, and recording information on the and  faculty of the querier, and allocating relevant tags.
-Instructions on how to fill out tickets on the Ask-JGI tracker can be found <a class="reference internal" href="tracker.html#tracker"><span class="std std-ref">here</span></a>.
-<br><br></p></li>
+Instructions on how to fill out tickets on the Ask-JGI tracker can be found <a class="reference internal" href="tracker.html#tracker"><span class="std std-ref">here</span></a>.</p></li>
 <li><p>The Ask-JGI team member responsible for the query will respond to the querier to either answer their question or to <a class="reference internal" href="arranging-meetings.html#arranging-meetings"><span class="std std-ref">arrange a meeting</span></a> to discuss further.
 <strong>It is important to reply to the latest email in the email thread (which includes the Ask-JGI automatic response) so that the Ask-JGI ticket number is included in the continuing email thread</strong>.
 This ensures that the same tracker ticket is updated as the email thread evolves.
-For more information on this, see <a class="reference internal" href="ticket-updates.html#ticket-numbers"><span class="std std-ref">here</span></a>.
-<br><br></p></li>
-<li><p>The Ask-JGI team member should use the notes section of their query ticket on the Ask-JGI <a class="reference internal" href="tracker.html#tracker"><span class="std std-ref">tracker</span></a> to record the status and current actions from their query.
-<br><br></p></li>
+For more information on this, see <a class="reference internal" href="ticket-updates.html#ticket-numbers"><span class="std std-ref">here</span></a>.</p></li>
+<li><p>The Ask-JGI team member should use the notes section of their query ticket on the Ask-JGI <a class="reference internal" href="tracker.html#tracker"><span class="std std-ref">tracker</span></a> to record the status and current actions from their query.</p></li>
 <li><p>Once the query has been resolved, the ticket on the tracker should be marked as resolved.</p></li>
 </ol>
 <div class="admonition note">
@@ -439,6 +450,98 @@ For more information on this, see <a class="reference internal" href="ticket-upd
 <p>You can store any files related to your queries <a class="reference external" href="https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects?csf=1&amp;web=1&amp;e=rjQdqF">here</a>.
 Remember to give any folders an informative name, so future shifters can access your files.</p>
 </div>
+</section>
+<section id="query-categories">
+<h2>Query Categories<a class="headerlink" href="#query-categories" title="Permalink to this heading">#</a></h2>
+<p>The tracker contains fields for “Query topic” and “Task for Ask-JGI”.
+These are so that the JGI can track what kind of query we recieve and what kind of help we offer most often.
+The different options for these fields are described below - if you are unsure which one to use, you can ask
+the team Slack channel or the team in the weekly meeting.</p>
+<section id="query-topic">
+<h3>Query topic<a class="headerlink" href="#query-topic" title="Permalink to this heading">#</a></h3>
+<p>This refers to the broad area(s) of data science that the query is about.
+There may be more than one - e.g. a query may be about both Statistics and ML.
+The current options in the tracker are:</p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Option</p></th>
+<th class="head"><p>Meaning</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Experimental Design</p></td>
+<td><p>Looking for ideas on what to do with data, or how to best investigate something using data</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ethics</p></td>
+<td><p>The ethical considerations involved when dealing with data and data science techniques</p></td>
+</tr>
+<tr class="row-even"><td><p>GIS</p></td>
+<td><p>Geographic Information System - usually related to maps</p></td>
+</tr>
+<tr class="row-odd"><td><p>ML</p></td>
+<td><p>Machine Learning</p></td>
+</tr>
+<tr class="row-even"><td><p>Natural Language Processing</p></td>
+<td><p>NLP - Processing human language</p></td>
+</tr>
+<tr class="row-odd"><td><p>Privacy/Security</p></td>
+<td><p>Ideas about data security and privacy</p></td>
+</tr>
+<tr class="row-even"><td><p>Statistics</p></td>
+<td><p>Classical Statistics - i.e. making inference using a data sample, but not ML</p></td>
+</tr>
+<tr class="row-odd"><td><p>Support with application/bid</p></td>
+<td><p>The JGI can offer letters of support and/or support applications and bids by University researchers</p></td>
+</tr>
+<tr class="row-even"><td><p>Talk/promotion</p></td>
+<td><p>A talk/event/promotion that may be of interest to the JGI</p></td>
+</tr>
+<tr class="row-odd"><td><p>Visualisation</p></td>
+<td><p>Help with data visualisation; can be either coding support or advice</p></td>
+</tr>
+<tr class="row-even"><td><p>Web Scraping</p></td>
+<td><p>Automatically retrieving information from the web</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="task-for-ask-jgi">
+<h3>Task for Ask-JGI<a class="headerlink" href="#task-for-ask-jgi" title="Permalink to this heading">#</a></h3>
+<p>This refers to the type of action that will be undertaken by the Data Scientist(s) assigned to this query.
+There may be more than one - e.g. a query may require both Technical advice and Signposting.
+The current options in the tracker are:</p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Option</p></th>
+<th class="head"><p>Meaning</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Technical advice</p></td>
+<td><p>Offered technical advice - on e.g. frameworks, languages, tooling, methodology</p></td>
+</tr>
+<tr class="row-odd"><td><p>Signposting</p></td>
+<td><p>Pointed to a relevant resource</p></td>
+</tr>
+<tr class="row-even"><td><p>Comments on document</p></td>
+<td><p>Commented on a document sent by the user</p></td>
+</tr>
+<tr class="row-odd"><td><p>Non technical advice</p></td>
+<td><p>Offered non-technical advice - on e.g.</p></td>
+</tr>
+<tr class="row-even"><td><p>“Rubber ducking”</p></td>
+<td><p><a class="reference external" href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">Helped debug by acting as a sounding board</a></p></td>
+</tr>
+<tr class="row-odd"><td><p>Quick email response only</p></td>
+<td><p>Query resolved after a quick email response (or a few short emails)</p></td>
+</tr>
+<tr class="row-even"><td><p>Writing code</p></td>
+<td><p>Provided code for the user - either an example for them to learn from or a prototype</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -499,6 +602,25 @@ Remember to give any folders an informative name, so future shifters can access 
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-they-work">How they work</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#query-categories">Query Categories</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#query-topic">Query topic</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#task-for-ask-jgi">Task for Ask-JGI</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
