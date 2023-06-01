@@ -45,6 +45,15 @@ The different options for these fields are described below - if you are unsure w
 the team Slack channel or the team in the weekly meeting.
 
 ### Query topic
+This refers to the broad area(s) of data science that the query is about.
+There may be more than one - e.g. a query may be about both Statistics and ML.
+The current options in the tracker are:
+
+ -
 
 ### Task for Ask-JGI
+This refers to the type of action that will be undertaken by the Data Scientist(s) assigned to this query.
+There may be more than one - e.g. a query may require both Technical advice and Signposting.
+The current options in the tracker are:
 
+ -
