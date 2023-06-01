@@ -1,8 +1,8 @@
 (meetings)=
 # Weekly meetings
 
-**Time:** Thursday at 11:00 </br>
-**Place:** Hybrid (Library Room Royal Fort House and MS Teams) </br>
+**Time:** Thursday at 11:00  
+**Place:** Hybrid (Library Room Royal Fort House and MS Teams)  
 **Meeting agendas:** [Ask-JGI SharePoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Fgrp%2Djeangoldinginstituteteam%2FShared%20Documents%2FAsk%2DJGI%2FSHARED%2FWeekly%20meetings&FolderCTID=0x012000FFD4B69490FD3D439DB32D031C19D56F)
 
 All Ask-JGI team members are expected to attend the weekly meetings to
@@ -37,7 +37,7 @@ A meeting agenda will usually include the following:
   activity or past query.
   
 (meeting-agenda)=
-##  Meeting agendas
+## Meeting agendas
 
 The Ask-JGI data science meetings agendas are currently maintained on
 the [Ask-JGI SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Weekly%20meetings?csf=1&web=1&e=UWdXAH](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Fgrp%2Djeangoldinginstituteteam%2FShared%20Documents%2FAsk%2DJGI%2FSHARED%2FWeekly%20meetings&FolderCTID=0x012000FFD4B69490FD3D439DB32D031C19D56F)
