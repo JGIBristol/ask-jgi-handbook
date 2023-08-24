@@ -6,7 +6,7 @@ Documenting operations and procedures for the Ask-JGI consultation service.
 
 This handbook uses [Jupyter Book](http://jupyterbook.org/).
 
-The current live version of this book can be found [here](https://jean-golding-institute.github.io/ask-jgi-handbook/pages/intro.html).
+The current live version of this book can be found [here](https://jgibristol.github.io/ask-jgi-handbook/pages/intro.html).
 
 ## Quickstart 
 
