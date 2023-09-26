@@ -78,6 +78,17 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "mgchandler",
+      "name": "Matt Chandler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72458692?v=4",
+      "profile": "https://github.com/mgchandler",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
