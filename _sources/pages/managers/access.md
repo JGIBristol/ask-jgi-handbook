@@ -21,3 +21,7 @@ All team members should be added to the [Ask-JGI Inbox](https://outlook.office.c
 ## GitHub team
 
 All team members should be given push access to the [Ask-JGI Handbook](https://jgibristol.github.io/ask-jgi-handbook/) via the [Ask-JGI team in the JGIBristol organisation](https://github.com/orgs/JGIBristol/teams/Ask-JGI).
+
+## UCard access to Royal Fort House
+
+All team members should be given access to Royal Fort House for meetings. The JGI Manager can arrange for this access.
