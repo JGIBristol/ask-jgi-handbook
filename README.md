@@ -1,6 +1,6 @@
 # ask-jgi-handbook
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Documenting operations and procedures for the Ask-JGI consultation service.
 
@@ -31,6 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://www.turing.ac.uk/people/doctoral-students/leo-gorman"><img src="https://avatars.githubusercontent.com/u/55786252?v=4?s=100" width="100px;" alt="Léo Gorman"/><br /><sub><b>Léo Gorman</b></sub></a><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=l-gorman" title="Documentation">📖</a> <a href="#maintenance-l-gorman" title="Maintenance">🚧</a> <a href="#ideas-l-gorman" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/mgchandler"><img src="https://avatars.githubusercontent.com/u/72458692?v=4?s=100" width="100px;" alt="Matt Chandler"/><br /><sub><b>Matt Chandler</b></sub></a><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=mgchandler" title="Documentation">📖</a> <a href="#maintenance-mgchandler" title="Maintenance">🚧</a> <a href="#ideas-mgchandler" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
