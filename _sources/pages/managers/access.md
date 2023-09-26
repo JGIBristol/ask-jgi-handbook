@@ -1,30 +1,23 @@
 (access)=
 # Communications and Access
 
-New Ask-JGI team members will require the following:
-- Ask-JGI Slack channel [access](slack_access)
-- Ask-JGI Shared mailbox [access](mailbox_access)
-- Ask-JGI SharePoint and Tracker [access](sharepoint_access)
+New Ask-JGI team members will require access to the following services.
+The JGI Staff Data Scientist in charge of Ask-JGI will have access to make these changes.
 
-(slack_access)=
-## Managing access on Slack
+## Ask-JGI Teams channel and SharePoint
 
-All new students should register for the Bristol Data Science Slack
-Workspace.
+All team members should be added to the [Ask-JGI Teams channel](https://teams.microsoft.com/l/channel/19:R0mjpTn4_jzlZocsu-My0sSS0itzKTKFprXUbf4qp8s1@thread.tacv2/Ask-JGI%2520channel?groupId=ab55d7dd-aaf0-40b3-99c0-27efd424750f&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) within the Jean Golding Institute Team on Microsoft Teams.
 
-They will then need to be added to the `#ask-jgi` channel.
+This will also give them access to the [Ask-JGI SharePoint folder](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam-ask-jgi/) for storing information about projects and completing timesheets.
 
-(mailbox_access)=
-## Mailbox access
+## Ask-JGI Tracker
 
-All new students will need access to the Ask-JGI mailbox.
+All team members should be added to the [Ask-JGI Tracker](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Lists/AskJGI%20tracker) via the [Ask-JGI Tracker users](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/_layouts/15/people.aspx?MembershipGroupId=1001) group on SharePoint.
 
-Access is managed via the IT Services [shared mailboxes admin tool](https://www.bristol.ac.uk/it-services/applications/shared-mailboxes/sharedmailboxes) as described in these [instructions for requesting and managing shared mailboxes](https://uob.sharepoint.com/sites/systemsupport/SitePages/online-shared-mailbox-admin.aspx).
-Ask-JGI mailbox access can be managed directly through [this link](https://www.bristol.ac.uk/it-services/applications/shared-mailboxes/sharedmailbox/MDAwNDk4NTY).
+## Shared mailbox
 
-(sharepoint_access)=
-## SharePoint and Tracker access
+All team members should be added to the [Ask-JGI Inbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/) via the [shared mailboxes admin tool](https://www.bristol.ac.uk/it-services/applications/shared-mailboxes/sharedmailbox/MDAwNDk4NTY). Further [instructions for requesting and managing shared mailboxes](https://uob.sharepoint.com/sites/systemsupport/SitePages/online-shared-mailbox-admin.aspx) are available from IT Services.
 
-In order to gain access to the Ask-JGI SharePoint and Tracker, new students will need to be added to the group `grp-Jean Golding Institute AskJGI PhD Students`.
+## GitHub team
 
-Access is managed [here](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/_layouts/15/people.aspx?MembershipGroupId=1001), and any existing JGI team member should be able to add a new member to this group.
+All team members should be given push access to the [Ask-JGI Handbook](https://jgibristol.github.io/ask-jgi-handbook/) via the [Ask-JGI team in the JGIBristol organisation](https://github.com/orgs/JGIBristol/teams/Ask-JGI).
