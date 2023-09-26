@@ -1,6 +1,6 @@
 # ask-jgi-handbook
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Documenting operations and procedures for the Ask-JGI consultation service.
 
@@ -32,6 +32,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://www.turing.ac.uk/people/doctoral-students/leo-gorman"><img src="https://avatars.githubusercontent.com/u/55786252?v=4?s=100" width="100px;" alt="Léo Gorman"/><br /><sub><b>Léo Gorman</b></sub></a><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=l-gorman" title="Documentation">📖</a> <a href="#maintenance-l-gorman" title="Maintenance">🚧</a> <a href="#ideas-l-gorman" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/lippirk"><img src="https://avatars.githubusercontent.com/u/24416311?v=4?s=100" width="100px;" alt="Ben Anson"/><br /><sub><b>Ben Anson</b></sub></a><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=lippirk" title="Documentation">📖</a> <a href="#maintenance-lippirk" title="Maintenance">🚧</a> <a href="#ideas-lippirk" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="20%"><img src="?s=100" width="100px;" alt="mvab"/><br /><sub><b>mvab</b></sub><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=mvab" title="Documentation">📖</a> <a href="#maintenance-mvab" title="Maintenance">🚧</a> <a href="#ideas-mvab" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="20%"><img src="?s=100" width="100px;" alt="mgchander"/><br /><sub><b>mgchander</b></sub><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=mgchander" title="Documentation">📖</a> <a href="#maintenance-mgchander" title="Maintenance">🚧</a> <a href="#ideas-mgchander" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="20%"><img src="?s=100" width="100px;" alt="vairylein"/><br /><sub><b>vairylein</b></sub><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=vairylein" title="Documentation">📖</a> <a href="#maintenance-vairylein" title="Maintenance">🚧</a> <a href="#ideas-vairylein" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="20%"><img src="?s=100" width="100px;" alt="WillGChapman"/><br /><sub><b>WillGChapman</b></sub><br /><a href="#ideas-WillGChapman" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="20%"><img src="?s=100" width="100px;" alt="RichardP1234"/><br /><sub><b>RichardP1234</b></sub><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=RichardP1234" title="Documentation">📖</a> <a href="#maintenance-RichardP1234" title="Maintenance">🚧</a> <a href="#ideas-RichardP1234" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-RichardP1234" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/xintu59"><img src="https://avatars.githubusercontent.com/u/92021576?v=4?s=100" width="100px;" alt="xintu59"/><br /><sub><b>xintu59</b></sub></a><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=xintu59" title="Documentation">📖</a> <a href="#maintenance-xintu59" title="Maintenance">🚧</a> <a href="#ideas-xintu59" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-xintu59" title="Project Management">📆</a></td>
     </tr>
   </tbody>
 </table>
