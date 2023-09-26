@@ -15,7 +15,8 @@
         "fundingFinding",
         "ideas"
       ]
-    },    {
+    },
+    {
       "login": "ekuw",
       "name": "ekuw",
       "avatar_url": "https://avatars.githubusercontent.com/u/76116294?v=4",
@@ -66,12 +67,25 @@
         "projectManagement",
         "maintenance"
       ]
+    },
+    {
+      "login": "l-gorman",
+      "name": "Léo Gorman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55786252?v=4",
+      "profile": "https://www.turing.ac.uk/people/doctoral-students/leo-gorman",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
   "projectName": "ask-jgi-handbook",
-  "projectOwner": "jgibristol",
+  "projectOwner": "JGIBristol",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
