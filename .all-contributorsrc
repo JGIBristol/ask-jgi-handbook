@@ -6,11 +6,22 @@
   "commit": false,
   "contributors": [
     {
+      "login": "jgibristol",
+      "name": "Jean Golding Institute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45198316?v=4",
+      "profile": "https://www.bristol.ac.uk/golding/",
+      "contributions": [
+        "financial",
+        "fundingFinding",
+        "ideas"
+      ]
+    },    {
       "login": "ekuw",
       "name": "ekuw",
       "avatar_url": "https://avatars.githubusercontent.com/u/76116294?v=4",
       "profile": "https://github.com/ekuw",
       "contributions": [
+        "ideas",
         "doc",
         "mentoring",
         "projectManagement",
@@ -23,23 +34,43 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
       "profile": "https://github.com/NatalieZelenka",
       "contributions": [
-        "ideas"
+        "ideas",
+        "doc",
+        "mentoring",
+        "projectManagement",
+        "maintenance"
       ]
     },
     {
-      "login": "Jean-Golding-Institute",
-      "name": "Jean Golding Institute",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45198316?v=4",
-      "profile": "http://bristol.ac.uk/golding/",
+      "login": "jatonline",
+      "name": "James Thomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48878399?v=4",
+      "profile": "https://github.com/jatonline",
       "contributions": [
-        "financial",
-        "fundingFinding"
+        "ideas",
+        "doc",
+        "mentoring",
+        "projectManagement",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "richard-lane",
+      "name": "Richard Lane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56296326?v=4",
+      "profile": "https://github.com/richard-lane",
+      "contributions": [
+        "ideas",
+        "doc",
+        "mentoring",
+        "projectManagement",
+        "maintenance"
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 5,
   "projectName": "ask-jgi-handbook",
-  "projectOwner": "Jean-Golding-Institute",
+  "projectOwner": "jgibristol",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
