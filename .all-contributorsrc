@@ -6,11 +6,23 @@
   "commit": false,
   "contributors": [
     {
+      "login": "jgibristol",
+      "name": "Jean Golding Institute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45198316?v=4",
+      "profile": "https://www.bristol.ac.uk/golding/",
+      "contributions": [
+        "financial",
+        "fundingFinding",
+        "ideas"
+      ]
+    },
+    {
       "login": "ekuw",
       "name": "ekuw",
       "avatar_url": "https://avatars.githubusercontent.com/u/76116294?v=4",
       "profile": "https://github.com/ekuw",
       "contributions": [
+        "ideas",
         "doc",
         "mentoring",
         "projectManagement",
@@ -23,24 +35,134 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
       "profile": "https://github.com/NatalieZelenka",
       "contributions": [
+        "ideas",
+        "doc",
+        "mentoring",
+        "projectManagement",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "jatonline",
+      "name": "James Thomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48878399?v=4",
+      "profile": "https://github.com/jatonline",
+      "contributions": [
+        "ideas",
+        "doc",
+        "mentoring",
+        "projectManagement",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "richard-lane",
+      "name": "Richard Lane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56296326?v=4",
+      "profile": "https://github.com/richard-lane",
+      "contributions": [
+        "ideas",
+        "doc",
+        "mentoring",
+        "projectManagement",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "l-gorman",
+      "name": "Léo Gorman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55786252?v=4",
+      "profile": "https://www.turing.ac.uk/people/doctoral-students/leo-gorman",
+      "contributions": [
+        "doc",
+        "maintenance",
         "ideas"
       ]
     },
     {
-      "login": "Jean-Golding-Institute",
-      "name": "Jean Golding Institute",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45198316?v=4",
-      "profile": "http://bristol.ac.uk/golding/",
+      "login": "lippirk",
+      "name": "Ben Anson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24416311?v=4",
+      "profile": "https://github.com/lippirk",
       "contributions": [
-        "financial",
-        "fundingFinding"
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "mvab",
+      "name": "Marina Vabistsevits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16936674?v=4",
+      "profile": "https://github.com/mvab",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "mgchandler",
+      "name": "Matt Chandler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72458692?v=4",
+      "profile": "https://github.com/mgchandler",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "vairylein",
+      "name": "vairylein",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1439220?v=4",
+      "profile": "https://github.com/vairylein",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "WillGChapman",
+      "name": "WillGChapman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52829550?v=4",
+      "profile": "https://github.com/WillGChapman",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "RichardP1234",
+      "name": " Richard Pyle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42965322?v=4",
+      "profile": "https://github.com/RichardP1234",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "xintu59",
+      "name": "xintu59",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92021576?v=4",
+      "profile": "https://github.com/xintu59",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas",
+        "projectManagement"
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 5,
   "projectName": "ask-jgi-handbook",
-  "projectOwner": "Jean-Golding-Institute",
+  "projectOwner": "JGIBristol",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
