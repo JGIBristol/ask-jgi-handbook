@@ -89,6 +89,45 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "mvab",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "mgchander",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "vairylein",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "WillGChapman",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "RichardP1234",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 5,
