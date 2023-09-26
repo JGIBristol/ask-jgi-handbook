@@ -78,6 +78,17 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "lippirk",
+      "name": "Ben Anson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24416311?v=4",
+      "profile": "https://github.com/lippirk",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
