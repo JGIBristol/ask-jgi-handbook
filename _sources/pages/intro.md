@@ -4,9 +4,8 @@ This book documents the operations, procedures and ongoing performance
 and development of the Ask-JGI data science consultation service, run
 by the Jean Golding Institute at the University of Bristol. 
 
-:::{image} ../images/JGI-linkedin-header-2.png
+:::{image} ../images/header.png
 :::
-
 
 <p>&nbsp;</p>
 Ask-JGI is a free service for University of Bristol doctoral
