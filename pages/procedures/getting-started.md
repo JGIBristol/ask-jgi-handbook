@@ -26,10 +26,9 @@ The Teams channel is also used for the weekly Ask-JGI meetings.
 
 ## Getting set up with SharePoint
 
-Ask-JGI students should request access to the 
+When you are added to the Ask-JGI Teams channel, you should be automatically granted access to the
 Ask-JGI SharePoint folder, which can be found [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=imr5IE).
-In this folder you will be able to access weekly-agendas 
-for meetings, and store files related to any of your queries.
+In this folder you will be able to store files related to any of your queries, such as meeting notes or code examples.
 
 While working with Ask-JGI you will be expected to
 attend weekly catch-up meetings with the rest of the team. 

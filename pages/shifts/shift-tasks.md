@@ -11,7 +11,7 @@ are on shift:
 
 1. Each shift block begins on a Monday. Each Monday drop a note in
 the Ask-JGI Teams channel to say good morning. This is to check-in
-with the JGI data scientists and the other person currently on shift. </br></br>
+with the Staff Data Scientists and the other person currently on shift. </br></br>
 
 2. If there are two of you on shift, then check-in with your new shift
 buddy on the first day of your (or their) shift, which will be a
@@ -29,7 +29,7 @@ your new buddy. </br></br>
    that you would like to offer up to other Ask-JGI team members to
    participate in.
    ```{tip}
-   Remember that the JGI data scientists are on the Teams channel too,
+   Remember that the Staff Data Scientists are on the Teams channel too,
    and they can offer advice and pointers on any query that you need help
    with.
    ```
