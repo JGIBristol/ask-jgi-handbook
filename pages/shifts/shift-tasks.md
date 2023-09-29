@@ -10,7 +10,7 @@ The following tasks are expected of Ask-JGI team members while they
 are on shift:
 
 1. Each shift block begins on a Monday. Each Monday drop a note in
-the Ask-JGI slack channel to say good morning. This is to check-in
+the Ask-JGI Teams channel to say good morning. This is to check-in
 with the JGI data scientists and the other person currently on shift. </br></br>
 
 2. If there are two of you on shift, then check-in with your new shift
@@ -23,13 +23,13 @@ your new buddy. </br></br>
   mailbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox) every day, checking
    for any new queries or any follow-up emails from past weeks.
    </br></br>
-4. You are expected to monitor the Ask-JGI slack channel
+4. You are expected to monitor the Ask-JGI Teams channel
    throughout the day in case of any important messages. This is also
    where you can post any new queries that you would like input on, or
    that you would like to offer up to other Ask-JGI team members to
    participate in.
    ```{tip}
-   Remember that the JGI data scientists are on the slack channel too,
+   Remember that the JGI data scientists are on the Teams channel too,
    and they can offer advice and pointers on any query that you need help
    with.
    ```
@@ -48,5 +48,5 @@ the status of the mailbox and any ongoing queries.
   ```{note}
    When there are no queries, there may be other work that needs
    to be done. Check the [meeting agendas](meeting-agenda) for any tasks, or feel free to 
-   ask the Ask-JGI team coordinator on [the Ask-JGI Slack](communicating-slack).  
+   ask the Ask-JGI team coordinator on [the Ask-JGI Teams Channel](communicating-teams).
    ```

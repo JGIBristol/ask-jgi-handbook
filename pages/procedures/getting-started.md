@@ -13,22 +13,16 @@ that you are able to access some platforms, pages and groups. Please
 see the sections below for instructions on how to get yourself ready
 for your first shift. 
 
-(communicating-slack)=
-## Communicating on Slack
+(communicating-teams)=
+## Communicating on Teams
 
 The platform that the Ask-JGI team uses to stay in touch on a
-day-to-day basis is Slack. The Jean Golding Institute hosts a Slack
-workspace called **Bristol Data Science Network**, where we aim to
-stay in touch with our community, and share ideas, events and
-opportunities with researchers, stakeholders and industry
-professionals. 
+day-to-day basis is Microsoft Teams. The Jean Golding Institute uses
+Teams to stay in touch with other team members, and to share ideas, events and
+opportunities with each other.
+There is a Teams channel specifically for the Ask-JGI team&mdash; you will be given access by a member of JGI staff.
 
-Sign up to join the **Bristol Data Science Network** Slack Workspace
-[here](https://www.bristol.ac.uk/golding/get-involved/build-your-network/slack/).
-
-Once you have signed in you should ask the Ask-JGI coordinator to add
-you to the private `#ask-jgi` channel, which is the channel that the team
-uses to communicate about all things Ask-JGI.
+The Teams channel is also used for the weekly Ask-JGI meetings.
 
 ## Getting set up with SharePoint
 

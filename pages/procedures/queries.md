@@ -6,10 +6,10 @@
 1. Researchers email their queries to ask-jgi@bristol.ac.uk.
 2. An [automatic email](auto-replies) is sent to the querier, as explained [here](auto-replies).
     This email asks the querier for additional details (e.g. description of aim and problem, description or excerpt of data) and letting them know to expect a response within the next few days.
-3. The Ask-JGI student on shift will share the query in the Ask-JGI **slack channel**, and will either:
+3. The Ask-JGI student on shift will share the query in the Ask-JGI **Teams channel**, and will either:
     - confirm that they intend to reply to the query, or
     - ask whether anyone else is available to do so.
-    Noting the new query in the Slack channel gives those not on shift the opportunity to collaborate on the query if it is of interest to them, or falls within their own area of expertise.
+    Noting the new query in the Teams channel gives those not on shift the opportunity to collaborate on the query if it is of interest to them, or falls within their own area of expertise.
     Likewise, the person on shift may not feel that they have the appropriate level of expertise in the relevant area.
     If this is the case it is also possible to ask for advice from the rest of the team on how to proceed, or to request support to answer the query.
 4. Once it has been agreed who will pick up the query, that team member is responsible for assigning the task to themselves on the [](tracker), and recording information on the and  faculty of the querier, and allocating relevant tags.
@@ -30,7 +30,7 @@ Remember to give any folders an informative name, so future shifters can access 
 The tracker contains fields for "Query topic" and "Task for Ask-JGI".
 These are so that the JGI can track what kind of query we recieve and what kind of help we offer most often.
 The different options for these fields are described below - if you are unsure which one to use, you can ask
-the team Slack channel or the team in the weekly meeting.
+the Teams channel or the team in the weekly meeting.
 
 ### Query topic
 This refers to the broad area(s) of data science that the query is about.
