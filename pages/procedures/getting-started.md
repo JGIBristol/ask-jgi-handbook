@@ -13,34 +13,26 @@ that you are able to access some platforms, pages and groups. Please
 see the sections below for instructions on how to get yourself ready
 for your first shift. 
 
-(communicating-slack)=
-## Communicating on Slack
+(communicating-teams)=
+## Communicating on Teams
 
 The platform that the Ask-JGI team uses to stay in touch on a
-day-to-day basis is Slack. The Jean Golding Institute hosts a Slack
-workspace called **Bristol Data Science Network**, where we aim to
-stay in touch with our community, and share ideas, events and
-opportunities with researchers, stakeholders and industry
-professionals. 
+day-to-day basis is Microsoft Teams. The Jean Golding Institute uses
+Teams to stay in touch with other team members, and to share ideas, events and
+opportunities with each other.
+There is a Teams channel specifically for the Ask-JGI team&mdash; you will be given access by a member of JGI staff.
 
-Sign up to join the **Bristol Data Science Network** Slack Workspace
-[here](https://www.bristol.ac.uk/golding/get-involved/build-your-network/slack/).
-
-Once you have signed in you should ask the Ask-JGI coordinator to add
-you to the private `#ask-jgi` channel, which is the channel that the team
-uses to communicate about all things Ask-JGI.
+The Teams channel is also used for the weekly Ask-JGI meetings.
 
 ## Getting set up with SharePoint
 
-Ask-JGI students should request access to the 
+When you are added to the Ask-JGI Teams channel, you should be automatically granted access to the
 Ask-JGI SharePoint folder, which can be found [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=imr5IE).
-In this folder you will be able to access weekly-agendas 
-for meetings, and store files related to any of your queries.
+In this folder you will be able to store files related to any of your queries, such as meeting notes or code examples.
 
 While working with Ask-JGI you will be expected to
 attend weekly catch-up meetings with the rest of the team. 
-The Ask-JGI weekly meetings are managed through the Ask-JGI
-[SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=YS5XKF). 
+The Ask-JGI weekly meetings are managed through the Teams channel.
 
 Login using your UoB account.
 
