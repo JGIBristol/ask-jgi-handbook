@@ -32,8 +32,7 @@ In this folder you will be able to store files related to any of your queries, s
 
 While working with Ask-JGI you will be expected to
 attend weekly catch-up meetings with the rest of the team. 
-The Ask-JGI weekly meetings are managed through the Ask-JGI
-[SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=YS5XKF). 
+The Ask-JGI weekly meetings are managed through the Teams channel.
 
 Login using your UoB account.
 
