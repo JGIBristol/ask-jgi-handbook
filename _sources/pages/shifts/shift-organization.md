@@ -9,7 +9,7 @@ calendar events in the
 [mailbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox/).
 
 For each 2 week shift block a base salary of 2 hours will be paid at a demonstrator hourly rate. 
-This is to cover the monitoring of the Ask-JGI mailbox/slack channel and attendance at the weekly Ask-JGI [data science meetings](meetings).
+This is to cover the monitoring of the Ask-JGI mailbox/Teams channel and attendance at the weekly Ask-JGI [data science meetings](meetings).
 
 The number of queries each week can be quite variable (sometimes none, but sometimes 10!). 
 We expect that the person on shift handles 1-2 queries, and that the rest of the queries are handed around to other Ask-JGI team members. 

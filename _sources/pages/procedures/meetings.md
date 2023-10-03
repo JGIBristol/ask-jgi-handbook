@@ -1,45 +1,67 @@
 (meetings)=
 # Weekly meetings
 
-**Time:** Thursday at 11:00  
-**Place:** Hybrid (Library Room Royal Fort House and MS Teams)  
-**Meeting agendas:** [Ask-JGI SharePoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Fgrp%2Djeangoldinginstituteteam%2FShared%20Documents%2FAsk%2DJGI%2FSHARED%2FWeekly%20meetings&FolderCTID=0x012000FFD4B69490FD3D439DB32D031C19D56F)
+**Time:** TBD (previously Thursday at 11:00)  
+**Place:** Hybrid (Library Room Royal Fort House and MS Teams)
 
 All Ask-JGI team members are expected to attend the weekly meetings to
 keep abreast of relevant news and developments. Team members will
 receive calendar invites to these meetings, which will be chaired by
 the Ask-JGI coordinator.
 
-## Purpose and scope
 
-There is a weekly catch-up meeting scheduled at 11:00 every Thursday
-on Teams. The purpose and scope of these catch-up meetings are as follows:
-- The Ask-JGI team coordinator will share relevant news and updates
+The Ask-JGI coordinator will create the meeting in the Teams channel.
+This is a weekly catch-up so that:
+- The Ask-JGI team coordinator can share relevant news and updates
   with the team.
-- The Ask-JGI team members on shift that week will provide an update
+- The Ask-JGI team members on shift that week can provide an update
   on any new or ongoing queries in the mailbox that they are dealing
   with.
 - Any Ask-JGI team member can ask for help, advice, or guidance on a query that
   they are dealing with or a project that they are working on.
-- Any Ask-JGI team member can present an update on an Ask-JGI related
+- (Optionally) Any Ask-JGI team member can present an update on an Ask-JGI related
   piece of work.
-- There will be a round-table opportunity at the end of the meeting
-  for everyone to bring up any questions, queries, updates or concerns
-  that they have.
-  
-  
-A meeting agenda will usually include the following:
+
+
+## Before the meeting
+
+The Ask-JGI co-ordinator will look through the Teams channel for any action items from:
+- the last meeting
+- the previous week
+
+and will make sure that all action items are addressed in the meeting.
+
+## During the meeting
+
+A meeting will usually include the following:
 - A high-level update from the Ask-JGI coordinator.
 - An update from the current shifters about the Ask-JGI mailbox and
   any ongoing activities.
 - A list of tasks not included in the mailbox
 - (Optional) An update from and Ask-JGI team member on an ongoing
   activity or past query.
-  
-(meeting-agenda)=
-## Meeting agendas
+- A round-table opportunity at the end of the meeting
+  for everyone to bring up any questions, queries, updates or concerns
+  that they have.
+- Any other business: if there are any upcoming events, talks or important deadlines. Towards the end of the month, the
+facilitator may also remind you to put in your timesheets.
 
-The Ask-JGI data science meetings agendas are currently maintained on
-the [Ask-JGI SharePoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Fgrp%2Djeangoldinginstituteteam%2FShared%20Documents%2FAsk%2DJGI%2FSHARED%2FWeekly%20meetings&FolderCTID=0x012000FFD4B69490FD3D439DB32D031C19D56F)
+Most of the meeting will be taken up with going through the Ask-JGI tracker.
+The Ask-JGI co-ordinator or person on shift should share their screen and show the tracker so that everyone can see it,
+then go through each item in turn. This will involve:
+
+- Assigning new items: they may be assigned to the current shifter or somone else if they have capacity/interest in the query.
+- Discussing ongoing items: this can be a quick verbal update (e.g. "we're waiting for a reply", or "we've got a meeting next week") or more detailed asking for help.
+- Closing finished items.
 
 
+
+(meeting-minutes)=
+## Meeting minutes
+
+Instead of a separate document to track minutes from each meeting, we use MS Teams comments
+action items and decisions in each meeting.
+When the meeting is started in the Ask-JGI channel, you should be able to send messages in the meeting chat box- these
+will be recorded in the channel and can be referred back to later.
+Action items (e.g. "Bob has agreed to email Alice about her funding application this week") should be recorded in this
+chat box.

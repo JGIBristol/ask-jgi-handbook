@@ -40,7 +40,7 @@ better addressed by other university services, some of which are listed below.
 
 You can use the following to explain the available services to university staff:
 
-```
+```Text
 Other resources are available for help with data science related queries at the 
 Univeristy of Bristol.
 - For help with coding or data intensive projects that may need advanced computational

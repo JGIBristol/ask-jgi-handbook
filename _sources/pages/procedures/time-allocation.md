@@ -7,7 +7,7 @@ can be discussed with the Ask-JGI shift coordinator.
 
 ```{tip}
 Remember that the
-Ask-JGI slack channel is there for you to ask for help and to discuss
+Ask-JGI Teams channel is there for you to ask for help and to discuss
 your queries. 
 ```
 
