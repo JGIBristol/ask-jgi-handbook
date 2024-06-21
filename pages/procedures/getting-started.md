@@ -58,15 +58,17 @@ you must make sure that you are able to access the tracker
 Contact the Ask-JGI coordinator in case of problems and they should be
 able to grant you access.
 
-## Suggest adding some information about payslips
-FAQs: 
-1) Are we on the Demonstrator rate or Graduate Teacher Level 1?
-2) Is each payslip for the hours worked in that month e.g. April payslip is hours worked in April?
-3) Is the "* N" bit in the payments section of the payslip indicating the hours that were submitted for that month?
-4) Did other people switch from "Causal Fee per Hour (Operational)" to "Casual Fee per Hour (Technical)" from April to May? Does this mean anything?
 
-Answers:
-1) Demonstrator rate
-2) April’s payslip should contain the hours worked in March
-3) Yep (but as above, it’s the number for the previous month and there should only be a discrepancy if you updated your Google sheet late or something (but that wouldn’t be a big deal because the missed hours would just carry over onto your next payslip))
-4) The normal Ask-JGI stuff should always say “(Operational)” as far as I’m aware - it sounds like your “(Technical)” pay was for other work
+## FAQs: 
+
+__Q1: Are we on the Demonstrator rate or Graduate Teacher Level 1?__\
+__A__: Demonstrator rate
+
+__Q2: Is each payslip for the hours worked in that month e.g. April payslip is hours worked in April?__\
+__A__: April’s payslip should contain the hours worked in March**
+
+__Q3: Is the "* N" bit in the payments section of the payslip indicating the hours that were submitted for that month?__\
+__A__: Yes (but as above, it’s the number for the previous month and there should only be a discrepancy if you updated your Google sheet late or something (but that wouldn’t be a big deal because the missed hours would just carry over onto your next payslip))
+
+__Q4: Did other people switch from "Casual Fee per Hour (Operational)" to "Casual Fee per Hour (Technical)" from April to May? Does this mean anything?__\
+__A__: The normal Ask-JGI stuff should always say “(Operational)” as far as I’m aware - it sounds like your “(Technical)” pay was for other work
