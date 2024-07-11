@@ -9,6 +9,7 @@ keep abreast of relevant news and developments. Team members will
 receive calendar invites to these meetings, which will be chaired by
 the Ask-JGI coordinator.
 
+You can claim for the time spent attending the weekly team meeting, which should not last longer than 1 hour.
 
 The Ask-JGI coordinator will create the meeting in the Teams channel.
 This is a weekly catch-up so that:

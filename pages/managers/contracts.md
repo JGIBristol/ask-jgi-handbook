@@ -11,12 +11,12 @@ This is the case for candidates who meet the following criteria:
 
 - Will be based in the UK for the duration of the contract.
 - Do not hold any other employment contracts at the University of Bristol.
-  
+
 Assuming the above criteria are fulfilled, a [Casual, Academic and Guest request](https://www.bristol.ac.uk/temporary-staffing/cag/managers/request/) should be made by the JGI admin team.
 This must be sent to TSS **at least 3 weeks** prior to the commencement of Ask-JGI activities.
 
 To claim payment each month, students will need to ensure that their timesheet (a shared Excel spreadsheet) is up to date before the end of each month.
-A member of the JGI admin team shoul send a reminder in the Microsoft Teams channel with the exact deadline each month.
+A member of the JGI admin team should send a reminder in the Microsoft Teams channel with the exact deadline each month.
 After checking the hours, a JGI admin team member will then submit the total hours using a MyERP timesheet.
 
 There are some cases where the above criteria do not apply (see below subsections).
@@ -34,5 +34,5 @@ We expect most students to be physically based in Bristol and be available to at
 ```
 
 In cases where a student is going to be based away from Bristol for part of their contract, they should check this first with the Ask-JGI manager.
-Where they will be oversea, then a special exception must also be sought through the [International Mobility Office](http://www.bristol.ac.uk/hr/policies/international-mobility/).
+Where they will be overseas, then a special exception must also be sought through the [International Mobility Office](http://www.bristol.ac.uk/hr/policies/international-mobility/).
 Provided that the International Mobility team are able to approve the circumstances a TSS contract ought to be able to be drawn up for a duration of 6 months (maximum for overseas-based workers).
