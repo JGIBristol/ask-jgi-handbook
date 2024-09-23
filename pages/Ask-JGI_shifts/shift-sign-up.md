@@ -18,9 +18,10 @@ An unbooked shift block will be entered in the calendar as **Shift 1:
 Open** and will appear as shown below:
 
 ::::{image} ../../images/shift_open.png
-alt: A screengrab from the Ask-JGI outlook calendar showing open shifts.
+:alt: A screengrab from the Ask-JGI outlook calendar showing open shifts.
 ::::
 </br></br>
+
 To book an available shift block:
 1. Click the block that you want to
 book in the Outlook calendar and select "Edit". From the drop down
@@ -30,18 +31,22 @@ It's important that you edit only one occurrence of the event and not
 the series. Make sure you select **This event** from the "Edit"
 options.
 ```
+
 ::::{image} ../../images/shift_edit.png
-alt: A screengrab from the Ask-JGI outlook calendar showing how to edit shift events.
+:alt: A screengrab from the Ask-JGI outlook calendar showing how to edit shift events.
 ::::
 </br></br>
+
 1. Change the event title from **Open shift**
 to your name (the shift is being booked by Bob in the example
 below). </br></br>
 2. Set the event to show as **Busy**, as shown in the example below.
+
 ::::{image} ../../images/shift_busy.png
-A screengrab from the Ask-JGI outlook calendar showing an example of "Bob" working a shift.
+:alt: A screengrab from the Ask-JGI outlook calendar showing an example of "Bob" working a shift.
 ::::
 </br></br>
+
 3. Double check that you have entered your name and that the event is
    set to show as **Busy**. When satisfied, save your changes as shown below.
 ```{danger}
@@ -54,12 +59,14 @@ event window, just below the save button, as shown below.
 ```
 
 ::::{image} ../../images/shift_saved.png
-A screengrab from the Ask-JGI outlook calendar showing Bob's saved shift.
+:alt: A screengrab from the Ask-JGI outlook calendar showing Bob's saved shift.
 ::::
 </br></br>
+
 5. If successful your changes should be visible immediately in the
 Outlook calendar:
+
 ::::{image} ../../images/shift_booked.png
-A screengrab from the Ask-JGI outlook calendar showing Bob's saved shift on the full calendar.
+:alt: A screengrab from the Ask-JGI outlook calendar showing Bob's saved shift on the full calendar.
 ::::
 </br></br>

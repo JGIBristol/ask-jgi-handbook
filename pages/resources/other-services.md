@@ -21,14 +21,14 @@ The other important type of Ask-JGI query are costing related. The Ask-JGI email
 
 - High performance computing (HPC) support. Email contact: hpc-help@bristol.ac.uk</br>
 - Research Data Storage Facility (RDSF) support. Email contact: rdsf-help@bristol.ac.uk</br>
-- Data science, coding/programming and other training. Researchers sometimes contact us asking about the training we offer in programming and coding. All the information about courses offered can be found on the University of Bristol [Data Science and Research Software Engineering Training website](https://bristol-training.github.io/). They can also email contact: jgi-training@bristol.ac.uk</br></br> to enquire for more details.
+- Data science, coding/programming and other training. Researchers sometimes contact us asking about the training we offer in programming and coding. All the information about courses offered can be found on the University of Bristol [Data Science and Research Software Engineering Training website](https://bristol-training.github.io/). They can also email contact: jgi-training@bristol.ac.uk to enquire for more details.
 - [Research IT](https://www.bristol.ac.uk/research-it/about) provide
   support to UoB researchers in the writing of the technical aspects
   of bid applications and identifying ways software can realise their
   research goals. Can provide help with software or programming to
   support research on a consultancy basis. Research IT can be
   contracted to consult on projects for shorter durations than data scientists or RSEs (i.e. at a day rate). 
-  Email contact: research-it@bristol.ac.uk</br></br>
+  Email contact: research-it@bristol.ac.uk</br>
 - [Library Research Support](http://www.bristol.ac.uk/library/research-support/):
   Support services in research data management, copyright enquiries,
   literature review. Email contact: lib-research-support@bristol.ac.uk</br></br>

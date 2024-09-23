@@ -60,7 +60,7 @@ Action items (e.g. "Bob has agreed to email Alice about her funding application 
 chat box, ideally tagging relevant people, especially if they were unable to attend. This is particularly relevant if a JGI Data Scientist has supported with a query but has been unable to attend the Ask-JGI meeting.
 
 ::::{image} ../../images/meetingminutes.png
-alt: An example of previous meeting minutes in the Ask-JGI teams channel. Bullet points with links to various team members saying:
+:alt: An example of previous meeting minutes in the Ask-JGI teams channel. Bullet points with links to various team members saying:
 "- Seedcorn stuff will be handled by Huw and he'll update the tracker. Don't worry about it all!
 - Query 608 if NLP help is needed for different languages, then ask Huw.
 - Query 634 does anyone know how to run R on Bluecrystal? 

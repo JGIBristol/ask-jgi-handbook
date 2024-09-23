@@ -5,7 +5,7 @@ and development of the Ask-JGI data science consultation service, run
 by the Jean Golding Institute at the University of Bristol. 
 
 :::{image} ../images/header.png
-alt: the JGI logo "making data work for everyone"
+:alt: the JGI logo "making data work for everyone"
 :::
 
 <p>&nbsp;</p>
