@@ -2,7 +2,7 @@
 # Claiming payment
 
 ```{important}
-We expect most students will claim via the **Temporary Staffing Service (TSS)** route.
+We expect most students will claim via the **Temporary Staffing Service (TSS)** route. Assume this it is this method unless told explicitly otherwise.
 ```
 
 ## Temporary Staffing Service (TSS) Claims

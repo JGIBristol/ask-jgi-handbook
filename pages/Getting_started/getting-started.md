@@ -1,13 +1,5 @@
 # Getting started
 
-If you are a new recruit looking to get set up for working with
-Ask-JGI, welcome to the team! 
-
-This handbook is meant to serve as a guide to explain how Ask-JGI
-works and what is expected of you as an Ask-JGI shifter. Please take
-the time to read through the procedures chapter in this handbook to
-make sure that you are up to speed on your responsibilities.
-
 Before you begin your first Ask-JGI shift you will need to make sure
 that you are able to access some platforms, pages and groups. Please
 see the sections below for instructions on how to get yourself ready
@@ -20,7 +12,7 @@ The platform that the Ask-JGI team uses to stay in touch on a
 day-to-day basis is Microsoft Teams. The Jean Golding Institute uses
 Teams to stay in touch with other team members, and to share ideas, events and
 opportunities with each other.
-There is a Teams channel specifically for the Ask-JGI team&mdash; you will be given access by a member of JGI staff.
+There is a Teams channel specifically for the Ask-JGI team - you will be given access by a member of JGI staff.
 
 The Teams channel is also used for the weekly Ask-JGI meetings.
 
@@ -44,16 +36,28 @@ be to monitor the Ask-JGI mailbox.
 Before beginning your first shift
 you must make sure that you are able to access the mailbox
 [here](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox).
-Contact the Ask-JGI coordinator in case of problems and they should be
+Contact the Ask-JGI lead in case of problems and they should be
 able to grant you access.
 
 ## Ask-JGI tracker access
 
 Any new query that is submitted to Ask-JGI results in a ticket being
-opened on the [Ask-JGI tracker](filler).
+opened on the [Ask-JGI tracker](tracker).
 
 Before beginning your first shift
 you must make sure that you are able to access the tracker
 [here](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Lists/AskJGI%20tracker).
-Contact the Ask-JGI coordinator in case of problems and they should be
+Contact the Ask-JGI lead in case of problems and they should be
 able to grant you access.
+
+# Storing data and writing code
+
+We recommend that, where possible, code and data are shared openly. This could be on a public GitHub repository, either under the [Jean Golding Institute GitHub](https://github.com/JGIBristol/Ask-JGI) GitHub, or on your own account. You will be given access to the Ask-JGI GitHub repo during your induction.
+
+When a project is shared publicly, we ask that the README file or front page contains the attribution "Supported by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/)'s Ask-JGI service".
+
+```{warning}
+If your project is working with sensitive data or code, check with the person that raised the query where the best place to store things is, and whether it is appropriate to share things publicly.
+```
+
+If it is not appropriate to share things publicly, then you should store files and data in a secure place. One such place is the [Projects folder on the Ask-JGI SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/SHARED/Projects?csf=1&web=1&e=PteIIp).

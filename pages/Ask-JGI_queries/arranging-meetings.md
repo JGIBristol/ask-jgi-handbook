@@ -3,12 +3,8 @@
 
 It is common to receive queries in the mailbox that require a short
 meeting with the querier in order to clarify their question, their
-needs, and their expectations. The Ask-JGI student who has been
+needs, and their expectations. If the query isn’t answered by a quick email response (which is usually a signposting or very quick code fix), you should arrange a meeting. The Ask-JGI student who has been
 assigned a query is responsible for setting up this meeting. 
-
-Please see instructions below on the following:
-- [How to set up meetings](meeting-setup)
-- [Following up after a meeting](meeting-followup)
 
 (meeting-setup)=
 ## How to set up meetings
@@ -38,8 +34,7 @@ number) and suggest some times that you are able to meet.
   > XXX
   > {AskJGI-XXX}
 
-- or, you can ask permission to book a meeting in their calendar at a time where their calendar shows them as being free.
-  For example:
+- or, you can ask permission to book a meeting in their calendar at a time where their calendar shows them as being free. For example:
   
   > Dear XXX, 
   > 
@@ -60,14 +55,24 @@ number) and suggest some times that you are able to meet.
   > XXX
   > {AskJGI-XXX}
 
+## What to do in a meeting
+Meetings can be arranged online or in person depending on what works best for the participants. You should start by briefly introducing yourself both of your background relevant to data science (e.g. I’m a PhD student working in Statistics to do with healthcare) and that you work as one of the Ask-JGI PhD students. 
+
+We’ve found that it can be good to measure expectations early on. If you tell the person that you’re an expert in something and then you can’t help, it’s not a good look. If you tell someone you’re familiar with the area but not an expert, then they’ll be pleasantly surprised if you can answer their question immediately but they won’t be put out if you can’t immediately solve the problem. We do not expect Ask-JGI students to have deep knowledge in all topics of data science and neither should the people we do work for!
+
+Before you get into the technical requirements of the problem, it’s important to state the limitations on the workflow, in particular that each Ask-JGI query has at most a day (~7 hours) of free support, which includes this meeting. Setting this expectation early can save the awkwardness later of having to say no to requests.
+
+Once you’ve done this, you can get to the query. How you do this is down to more personal preference and what the query involves. If you’ve booked a meeting, you’re likely going to have a bit of a back and forth discussion where you asking clarifying questions to address this problem. Whilst you do this, you should take notes of the discussion and any extra details you learn about the query.
+
+If the query will be more involved, you can agree on how much/what work will be done and any restraints (e.g. timeline) on that work. Sometimes, the fact that the queries are limited in time mean that researchers might have to decide how to best make use of Ask-JGI to support them. 
+
 (meeting-followup)=
 ## Following up after a meeting
 
 Once you have had a consultation meeting with a querier you should begin to compose a
 summary email to them as soon as possible. Doing this sooner rather
 than later helps to ensure that everything is fresh in your mind,
-making it less likely that you will forget something. Use any notes
-that you have taken during your meeting to help you.
+making it less likely that you will forget something. You should take notes during the meeting and use these to help you write this email.
 
 Sending summary emails are important:
 - It is helpful to repeat your key takeaways from the meetings to make
@@ -99,8 +104,7 @@ When composing your summary emails try to include the following:
     the querier, include a timeline for when the next contact is
     expected.
 
-If in any doubt, ask for help! The Ask-JGI coordinator and JGI Data
-Scientists will be happy to review any email before you send it.
+If in any doubt, ask for help! Your peers, the Ask-JGI coordinator and the Ask-JGI lead will be happy to review any email before you send it.
 
 ```{note}
 Remember to update the Ask-JGI tracker after a meeting to reflect what has
