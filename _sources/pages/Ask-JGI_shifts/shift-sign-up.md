@@ -1,7 +1,7 @@
 (signup)=
 # Shift sign-up
 
-Shifts are booked using the Ask-JGI calendar[here](https://outlook.office.com/calendar/ask-jgi@bristol.ac.uk/view/month).
+Shifts are booked using the Ask-JGI calendar [here](https://outlook.office.com/calendar/ask-jgi@bristol.ac.uk/view/month).
 
 
 ```{note}
