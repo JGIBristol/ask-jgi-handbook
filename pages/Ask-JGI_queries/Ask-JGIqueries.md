@@ -6,7 +6,7 @@ Researchers email their queries to ask-jgi@bristol.ac.uk.
 
 ## 2. Auto reply
 
-An [automatic email](auto-replies) is sent to the querier,..
+An [automatic email](auto-replies) is sent to the querier.
 This email asks the querier for additional details (e.g. description of aim and problem, description or excerpt of data) and letting them know to expect a response within the next few days.
 The automatic reply looks something like:
 ```
@@ -52,7 +52,7 @@ You can do this as a sort of buddy system, with one person taking the lead and t
 
 ## 4. Assign yourself on the tracker
 
-Once it has been agreed who will pick up the query, that team member is responsible for assigning the task to themselves on the [here](tracker), and recording information on the and  faculty of the querier, and allocating relevant tags.
+Once it has been agreed who will pick up the query, that team member is responsible for assigning the task to themselves on the [tracker](tracker), and recording information on the and faculty of the querier, and allocating relevant tags.
 Instructions on how to fill out tickets on the Ask-JGI tracker can be found [here](tracker).
 
 ## 5.  Respond to the query
@@ -74,7 +74,7 @@ The Ask-JGI team member should use the notes section of their query ticket on th
 Once the query has been resolved, the ticket on the tracker should be marked as resolved.
 
 ```{note}
-You can store any files related to your queries [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects?csf=1&web=1&e=rjQdqF).
+You can store any files related to your queries [here]([https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects%20Oct24-Sep25?csf=1&web=1&e=cFjzpM)).
 Remember to give any folders an informative name, so future shifters can access your files. On the tracker, each query comes with its own unique ID number, including this number in the folder name can be useful if we get queries from the same people in the future.
 ```
 
