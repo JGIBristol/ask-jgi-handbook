@@ -52,7 +52,7 @@ then go through each item in turn. This will involve:
 (meeting-minutes)=
 ## Meeting minutes
 
-Instead of a separate document to track minutes from each meeting, we use MS Teams comments
+Instead of a separate document to track minutes from each meeting, we use MS Teams comments to
 action items and decisions in each meeting.
 When the meeting is started in the Ask-JGI channel, you should be able to send messages in the meeting chat box- these
 will be recorded in the channel and can be referred back to later.
