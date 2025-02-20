@@ -9,6 +9,8 @@ on:
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
   deploy-book:
+    environment:
+      name: github-pages
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -33,7 +35,7 @@ jobs:
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v4
+      uses: actions/upload-pages-artifact@v3
       with:
         path: "_build/html"
 
