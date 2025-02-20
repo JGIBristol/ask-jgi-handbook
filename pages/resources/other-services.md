@@ -21,9 +21,9 @@ The other important type of Ask-JGI query are costing related. The Ask-JGI email
 
 - [High performance computing](https://www.bristol.ac.uk/acrc/high-performance-computing/) (HPC) support. Email contact: hpc-help@bristol.ac.uk</br>
 The University's HPC systems can be used to accelerate your computational research. High-performance computing (HPC) is the ability to process data and perform complex calculations at high speeds. Today, HPC is essential for many types of workloads, including AI/ML, physical simulations, and big data analysis.
-- [The Research Data Service](https://www.bristol.ac.uk/staff/researchers/data/​)
+- [The Research Data Service](https://www.bristol.ac.uk/staff/researchers/data/)
 The Research Data Service can help review data management plans for funding applications, review consent forms and participant information sheets, advise on RDSF (see below) and support with Data publication.
-Relevant links include: [data.bris repository​](https://data.bris.ac.uk/data/​) and [Support services](https://data.bris.ac.uk/​​). Can also email: "data-bris@bristol.ac.uk".​
+Relevant links include: [data.bris repository](https://data.bris.ac.uk/data/) and [Support services](https://data.bris.ac.uk/). Can also email: "data-bris@bristol.ac.uk".
 - [Research Data Storage Facility](https://www.bristol.ac.uk/acrc/research-data-storage-facility/) (RDSF) support. Email contact: rdsf-help@bristol.ac.uk</br>
 The RDSF (Research Data Storage Facility) is designed for the secure storage of your University Research data in the medium to long-term. 
 Each Principal Investigator / academic data steward at the University of Bristol currently receives 5 Terabytes (TB) of allocated storage on the RDSF to use across your multiple RDSF research projects.
