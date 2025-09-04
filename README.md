@@ -1,17 +1,25 @@
-# ask-jgi-handbook
+# Ask-JGI Handbook
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 Documenting operations and procedures for the Ask-JGI consultation service.
 
-This handbook uses [Jupyter Book](http://jupyterbook.org/).
+## Reading the handbook
 
 The current live version of this book can be found [here](https://jgibristol.github.io/ask-jgi-handbook/pages/intro.html).
 
-## Quickstart 
+## Modifying the handbook
 
-* Install dependencies: `pip install -r requirements.txt`
-* Build book: `jupyter-book build .`
+This handbook uses [Jupyter Book](http://jupyterbook.org/).
+
+If you _either_ make changes through the GitHub interface, _or_ push changes up to GitHub, then [GitHub Actions](./.github/workflows) will be used to build and publish the site automatically.
+
+If you prefer to preview changes locally, then the recommended way is:
+
+* [Install uv](https://docs.astral.sh/uv/#installation)
+* From the repo direcotry, run: `uvx jupyter-book build .`
 
 ## Contributors ✨
 
