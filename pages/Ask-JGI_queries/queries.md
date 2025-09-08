@@ -107,7 +107,7 @@ When composing your summary emails try to include the following:
     the querier, include a timeline for when the next contact is
     expected.
 
-If in any doubt, ask for help! Your peers, the Ask-JGI coordinator and the Ask-JGI lead will be happy to review any email before you send it.
+If in any doubt, ask for help! Your peers and the Ask-JGI lead will be happy to review any email before you send it.
 
 ```{note}
 Remember to update the Ask-JGI tracker after a meeting to reflect what has
@@ -121,7 +121,7 @@ resolved or still in progress.
 Although Ask-JGI team members have up to one day (7 hours) to spend on Ask-JGI
 queries, it is expected that most queries should take half a day or less
 (approx. 1-3 hours). If you have a query that you think might take longer than
-this can be discussed with the Ask-JGI shift coordinator.
+this can be discussed with the Ask-JGI lead.
 
 ```{tip}
 Remember that the

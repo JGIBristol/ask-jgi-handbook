@@ -104,9 +104,9 @@ When composing your summary emails try to include the following:
     the querier, include a timeline for when the next contact is
     expected.
 
-If in any doubt, ask for help! Your peers, the Ask-JGI coordinator and the Ask-JGI lead will be happy to review any email before you send it.
+If in any doubt, ask for help! Your peersand the Ask-JGI lead will be happy to review any email before you send it.
 
-```{note}
+```{important}
 Remember to update the Ask-JGI tracker after a meeting to reflect what has
 happened and what is expected to happen next (if any follow-up is expected). 
 Update the status field to indicate whether the query is

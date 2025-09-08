@@ -52,18 +52,20 @@ You can do this as a sort of buddy system, with one person taking the lead and t
 
 ## 4. Assign yourself on the tracker
 
-Once it has been agreed who will pick up the query, that team member is responsible for assigning the task to themselves on the [tracker](tracker), and recording information on the and faculty of the querier, and allocating relevant tags.
-Instructions on how to fill out tickets on the Ask-JGI tracker can be found [here](tracker).
+Once it has been agreed who will pick up the query, that team member is responsible for assigning the ticket to themselves on the [tracker](tracker), and recording information on the and faculty of the querier, and allocating relevant tags.
+Instructions on how to fill out tickets can be found on the [Ask-JGI tracker section](tracker).
 
 ## 5.  Respond to the query
 
 The Ask-JGI team member responsible for the query will respond to the querier to either answer their question or to [arrange a meeting](arranging-meetings) to discuss further.
 
-**It is important to reply to the latest email in the email thread (which includes the Ask-JGI automatic response) so that the Ask-JGI ticket number is included in the continuing email thread**. 
+```{important}
+Only reply to the latest email in the email thread (which includes the Ask-JGI automatic response) so that the Ask-JGI ticket number is included in the continuing email thread.
+```
 
 This ensures that the same tracker ticket is updated as the email thread evolves.
 
-You can read more about how to set up meetings and what to do in meetings [here](arranging-meetings).
+You can read more about how to set up meetings and what to do in the [Arranging meetings section](arranging-meetings).
 
 ## 6.  Keep the tracker up to date!
 
@@ -71,10 +73,10 @@ The Ask-JGI team member should use the notes section of their query ticket on th
 
 ## 7.  Resolve the query
 
-Once the query has been resolved, the ticket on the tracker should be marked as resolved.
+Once the query has been resolved, the ticket on the tracker should be marked as resolved. You should also archive the email thread by moving it to the 'Archive' folder in the Ask-JGI mailbox.
 
 ```{note}
-You can store any files related to your queries [here]([https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Projects%20Oct24-Sep25?csf=1&web=1&e=cFjzpM)).
+You can store any files related to your queries in the [Ask-JGI SharePoint folder](https://uob.sharepoint.com/teams/grp-JeanGoldingInstituteTeam-Ask-JGI/Shared%20Documents/Forms/AllItems.aspx).
 Remember to give any folders an informative name, so future shifters can access your files. On the tracker, each query comes with its own unique ID number, including this number in the folder name can be useful if we get queries from the same people in the future.
 ```
 

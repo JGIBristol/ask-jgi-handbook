@@ -1,7 +1,7 @@
 (signup)=
 # Shift sign-up
 
-Shifts are booked using the Ask-JGI calendar [here](https://outlook.office.com/calendar/ask-jgi@bristol.ac.uk/view/month).
+Shifts are booked using the [Ask-JGI calendar](https://outlook.office.com/calendar/ask-jgi@bristol.ac.uk/view/month).
 
 
 ```{note}
@@ -26,28 +26,31 @@ To book an available shift block:
 1. Click the block that you want to
 book in the Outlook calendar and select "Edit". From the drop down
 menu, select the option to edit **This event**.
+
+
 ```{important}
-It's important that you edit only one occurrence of the event and not
+Only edit one occurrence of the event and not
 the series. Make sure you select **This event** from the "Edit"
 options.
 ```
+<br>
 
 ::::{image} ../../images/shift_edit.png
 :alt: A screengrab from the Ask-JGI outlook calendar showing how to edit shift events.
 ::::
 </br></br>
 
-1. Change the event title from **Open shift**
+2. Change the event title from **Open shift**
 to your name (the shift is being booked by Bob in the example
 below). </br></br>
-2. Set the event to show as **Busy**, as shown in the example below.
+3. Set the event to show as **Busy**, as shown in the example below.
 
 ::::{image} ../../images/shift_busy.png
 :alt: A screengrab from the Ask-JGI outlook calendar showing an example of "Bob" working a shift.
 ::::
 </br></br>
 
-3. Double check that you have entered your name and that the event is
+4. Double check that you have entered your name and that the event is
    set to show as **Busy**. When satisfied, save your changes as shown below.
 ```{danger}
 Please make absolutely sure that you are editing a **single

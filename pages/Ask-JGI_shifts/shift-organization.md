@@ -57,7 +57,7 @@ the status of the mailbox and any ongoing queries at the [weekly meetings](meeti
   ```{note}
    When there are no queries, there may be other work that needs
    to be done. Check the notes from the last team meeting for any tasks, or feel free to 
-   ask the Ask-JGI team coordinator on [the Ask-JGI Teams Channel](communicating-teams).
+   ask the Ask-JGI team lead on [the Ask-JGI Teams Channel](communicating-teams).
    ```
 
 ## Handling lots of queries

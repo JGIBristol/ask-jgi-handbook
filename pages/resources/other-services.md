@@ -11,7 +11,7 @@ We also get emails from the currently dormant Ask-RSE mailbox.
 These queries are Research Software Engineering related and whilst this does have an overlap with the remit of the Ask-JGI helpdesk, we are not expected to be able to help with all of the queries and the researchers contacting us through this route should be made aware of this.
 If we're able to directly support then we should.
 
-## Getting JGI Data Scientists Involved
+## Getting JGI Data Scientists/RSE Involved
 
 Occasionally, some queries will fall out of the remit of Ask-JGI PhD students but might be appropriate for the full time JGI Data Science/Research Software Engineering team.
 These will usually be more specialised data science tasks and ideally these will be approached with a buddy system approach, where the JGI Data Scientist/RSE attends with an Ask-JGI PhD student.
@@ -20,7 +20,7 @@ Sometimes, these activities might just be signposting exercises, where the query
 ## Costing
 
 The other important type of Ask-JGI query are costing related.
-The Ask-JGI email is the one we encourage researchers to use when enquiring about costing out JGI Data Scientists, so any queries of this nature should be handled by the Data Science team (you could just post on the teams channel and tag the Ask-JGI Lead).
+The Ask-JGI email is the one we encourage researchers to use when enquiring about costing out JGI Data Scientists/RSE, so any queries of this nature should be handled by the Data Science/RSE team (you could just post on the teams channel and tag the Ask-JGI Lead or Senior Data Scientist James Thomas).
 The Ask-RSE mailbox also frequently receives emails of this type and those emails should also be passed on to the Data Science team.
 
 ## Other services
