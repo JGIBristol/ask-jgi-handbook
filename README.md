@@ -1,7 +1,7 @@
 # Ask-JGI Handbook
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Documenting operations and procedures for the Ask-JGI consultation service.
@@ -14,12 +14,17 @@ The current live version of this book can be found [here](https://jgibristol.git
 
 This handbook uses [Jupyter Book](http://jupyterbook.org/).
 
-If you _either_ make changes through the GitHub interface, _or_ push changes up to GitHub, then [GitHub Actions](./.github/workflows) will be used to build and publish the site automatically.
+We recommend that you create a new branch for any changes you make, and then open a pull request to merge your changes into the `main` branch. This allows others to review your changes before they are merged.
+
+If you _either_ make changes through the GitHub interface, _or_ push changes up to GitHub, then [GitHub Actions](./.github/workflows) will be used to build and publish the site automatically. H
 
 If you prefer to preview changes locally, then the recommended way is:
 
 * [Install uv](https://docs.astral.sh/uv/#installation)
 * From the repo directory, run: `uvx jupyter-book build .`
+
+## Suggestions and issues
+If you have suggestions for improvements to the handbook, or find any issues, please raise them as [GitHub issues](https://github.com/JGIBristol/ask-jgi-handbook/issues).
 
 ## Contributors ✨
 
