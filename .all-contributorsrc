@@ -155,6 +155,19 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "ritarasteiro",
+      "name": "Rita Rasteiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5339671?s=400&v=4",
+      "profile": "https://github.com/ritarasteiro",
+      "contributions": [
+        "ideas",
+        "doc",
+        "mentoring",
+        "projectManagement",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 5,
