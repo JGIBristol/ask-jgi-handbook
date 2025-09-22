@@ -31,7 +31,9 @@ number) and suggest some times that you are able to meet.
   > suits you.
   > 
   > Kind regards,
+  >
   > XXX
+  >
   > {AskJGI-XXX}
 
 - or, you can ask permission to book a meeting in their calendar at a time where their calendar shows them as being free. For example:
@@ -52,8 +54,14 @@ number) and suggest some times that you are able to meet.
   > to date? 
   > 
   > Kind regards,
+  >
   > XXX
+  >
   > {AskJGI-XXX}
+
+::::{note} 
+Remember to invite the Ask-JGI mailbox (ask-jgi@bristol.ac.uk) to the meeting. This ensures that the meeting is recorded in the Ask-JGI calendar. If possible, also include the tracking identification number in the meeting title (e.g. "Meeting with Alice about her NLP query {AskJGI-110}").
+::::
 
 ## What to do in a meeting
 Meetings can be arranged online or in person depending on what works best for the participants. You should start by briefly introducing yourself both of your background relevant to data science (e.g. I’m a PhD student working in Statistics to do with healthcare) and that you work as one of the Ask-JGI PhD students. 
