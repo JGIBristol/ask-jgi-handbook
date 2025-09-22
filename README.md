@@ -1,7 +1,7 @@
 # Ask-JGI Handbook
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Documenting operations and procedures for the Ask-JGI consultation service.
@@ -14,12 +14,17 @@ The current live version of this book can be found [here](https://jgibristol.git
 
 This handbook uses [Jupyter Book](http://jupyterbook.org/).
 
-If you _either_ make changes through the GitHub interface, _or_ push changes up to GitHub, then [GitHub Actions](./.github/workflows) will be used to build and publish the site automatically.
+We recommend that you create a new branch for any changes you make, and then open a pull request to merge your changes into the `main` branch. This allows others to review your changes before they are merged.
+
+If you _either_ make changes through the GitHub interface, _or_ push changes up to GitHub, then [GitHub Actions](./.github/workflows) will be used to build and publish the site automatically. H
 
 If you prefer to preview changes locally, then the recommended way is:
 
 * [Install uv](https://docs.astral.sh/uv/#installation)
-* From the repo direcotry, run: `uvx jupyter-book build .`
+* From the repo directory, run: `uvx jupyter-book build .`
+
+## Suggestions and issues
+If you have suggestions for improvements to the handbook, or find any issues, please raise them as [GitHub issues](https://github.com/JGIBristol/ask-jgi-handbook/issues).
 
 ## Contributors ✨
 
@@ -48,6 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="20%"><a href="https://github.com/WillGChapman"><img src="https://avatars.githubusercontent.com/u/52829550?v=4?s=100" width="100px;" alt="WillGChapman"/><br /><sub><b>WillGChapman</b></sub></a><br /><a href="#ideas-WillGChapman" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/RichardP1234"><img src="https://avatars.githubusercontent.com/u/42965322?v=4?s=100" width="100px;" alt=" Richard Pyle"/><br /><sub><b> Richard Pyle</b></sub></a><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=RichardP1234" title="Documentation">📖</a> <a href="#maintenance-RichardP1234" title="Maintenance">🚧</a> <a href="#ideas-RichardP1234" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-RichardP1234" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/xintu59"><img src="https://avatars.githubusercontent.com/u/92021576?v=4?s=100" width="100px;" alt="xintu59"/><br /><sub><b>xintu59</b></sub></a><br /><a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=xintu59" title="Documentation">📖</a> <a href="#maintenance-xintu59" title="Maintenance">🚧</a> <a href="#ideas-xintu59" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-xintu59" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/ritarasteiro"><img src="https://avatars.githubusercontent.com/u/5339671?s=400&v=4?s=100" width="100px;" alt="Rita Rasteiro"/><br /><sub><b>Rita Rasteiro</b></sub></a><br /><a href="#ideas-ritarasteiro" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/JGIBristol/ask-jgi-handbook/commits?author=ritarasteiro" title="Documentation">📖</a> <a href="#mentoring-ritarasteiro" title="Mentoring">🧑‍🏫</a> <a href="#projectManagement-ritarasteiro" title="Project Management">📆</a> <a href="#maintenance-ritarasteiro" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>

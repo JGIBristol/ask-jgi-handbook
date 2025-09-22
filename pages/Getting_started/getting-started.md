@@ -19,7 +19,7 @@ The Teams channel is also used for the weekly Ask-JGI meetings.
 ## Getting set up with SharePoint
 
 When you are added to the Ask-JGI Teams channel, you should be automatically granted access to the
-Ask-JGI SharePoint folder, which can be found [here](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI?csf=1&web=1&e=imr5IE).
+[Ask-JGI SharePoint folder](https://uob.sharepoint.com/:u:/r/teams/grp-JeanGoldingInstituteTeam-Ask-JGI/SitePages/Home.aspx?csf=1&web=1&e=K5KJmu).
 In this folder you will be able to store files related to any of your queries, such as meeting notes or code examples.
 
 While working with Ask-JGI you will be expected to
@@ -34,8 +34,7 @@ A major part of your duties while undertaking shifts for Ask-JGI will
 be to monitor the Ask-JGI mailbox. 
 
 Before beginning your first shift
-you must make sure that you are able to access the mailbox
-[here](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox).
+you must make sure that you are able to access the [mailbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox).
 Contact the Ask-JGI lead in case of problems and they should be
 able to grant you access.
 
@@ -45,8 +44,7 @@ Any new query that is submitted to Ask-JGI results in a ticket being
 opened on the [Ask-JGI tracker](tracker).
 
 Before beginning your first shift
-you must make sure that you are able to access the tracker
-[here](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Lists/AskJGI%20tracker).
+you must make sure that you are able to access the [tracker](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Lists/AskJGI%20tracker).
 Contact the Ask-JGI lead in case of problems and they should be
 able to grant you access.
 
@@ -60,4 +58,4 @@ When a project is shared publicly, we ask that the README file or front page con
 If your project is working with sensitive data or code, check with the person that raised the query where the best place to store things is, and whether it is appropriate to share things publicly.
 ```
 
-If it is not appropriate to share things publicly, then you should store files and data in a secure place. One such place is the [Projects folder on the Ask-JGI SharePoint](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/SHARED/Projects?csf=1&web=1&e=PteIIp).
+If it is not appropriate to share things publicly, then you should store files and data in a secure place. One such place is the [Projects folder on the Ask-JGI SharePoint](https://uob.sharepoint.com/:u:/r/teams/grp-JeanGoldingInstituteTeam-Ask-JGI/SitePages/Home.aspx?csf=1&web=1&e=K5KJmu).

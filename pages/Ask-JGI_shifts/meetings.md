@@ -7,13 +7,13 @@
 All Ask-JGI team members are expected to attend the weekly meetings to
 keep abreast of relevant news and developments. Team members will
 receive calendar invites to these meetings, which will be chaired by
-the Ask-JGI coordinator.
+the Ask-JGI lead.
 
 You can claim for the time spent attending the weekly team meeting, which should not last longer than 1 hour.
 
-The Ask-JGI coordinator will create the meeting in the Teams channel.
+The Ask-JGI lead will create the meeting in the Teams channel.
 This is a weekly catch-up so that:
-- The Ask-JGI team coordinator can share relevant news and updates
+- The Ask-JGI lead can share relevant news and updates
   with the team.
 - The Ask-JGI team members on shift that week can provide an update
   on any new or ongoing queries in the mailbox that they are dealing
@@ -22,7 +22,7 @@ This is a weekly catch-up so that:
 
 ## Before the meeting
 
-The Ask-JGI coordinator will look through the Teams channel for any action items from:
+The Ask-JGI lead will look through the Teams channel for any action items from:
 - the last meeting
 - the previous week
 
@@ -31,7 +31,7 @@ and will make sure that all action items are addressed in the meeting.
 ## During the meeting
 
 A meeting will usually include the following:
-- A high-level update from the Ask-JGI coordinator.
+- A high-level update from the Ask-JGI lead.
 - An update from the current shifters about the Ask-JGI mailbox and
   any ongoing activities.
 - A list of tasks not included in the mailbox
@@ -42,7 +42,7 @@ A meeting will usually include the following:
 facilitator may also remind you to put in your timesheets.
 
 Most of the meeting will be taken up with going through the Ask-JGI tracker.
-The Ask-JGI coordinator or person on shift should share their screen and show the tracker so that everyone can see it,
+The Ask-JGI lead or person on shift should share their screen and show the tracker so that everyone can see it,
 then go through each item in turn. This will involve:
 
 - Assigning new items: they may be assigned to the current shifter or someone else if they have capacity/interest in the query.

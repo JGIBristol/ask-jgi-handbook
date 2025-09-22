@@ -9,14 +9,13 @@ work/university commitments.
 
 To make sure that there is always at least one team member checking
 the Ask-JGI mailbox a throughout the day, Ask-JGI students are
-required to sign up for so-called **Ask-JGI shifts**. 
+required to sign up for so-called [Ask-JGI shifts](signup). 
 Students on shift will keep the rest of the team up-to-date at Weekly
 meetings. 
 
 Ask-JGI shifts will be undertaken by Ask-JGI team members in 2 week blocks.
 There tends to be one Ask-JGI team member on shift at any one time, but occasionally when there have been lots of queries, there have been 2 people on shift at once.
 
-To sign up for a shift, you can add your name to one of the 'Open Shift' calendar events in the [mailbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox/).
 
 For each 2 week shift block, a base salary of 2 hours (1 hour per week), will be paid.
 This is to cover the monitoring of the Ask-JGI mailbox/Teams channel and attendance at the weekly Ask-JGI [meetings](meetings).
@@ -57,7 +56,7 @@ the status of the mailbox and any ongoing queries at the [weekly meetings](meeti
   ```{note}
    When there are no queries, there may be other work that needs
    to be done. Check the notes from the last team meeting for any tasks, or feel free to 
-   ask the Ask-JGI team coordinator on [the Ask-JGI Teams Channel](communicating-teams).
+   ask the Ask-JGI team lead on [the Ask-JGI Teams Channel](communicating-teams).
    ```
 
 ## Handling lots of queries
