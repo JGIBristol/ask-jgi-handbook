@@ -11,10 +11,10 @@ We also get emails from the currently dormant Ask-RSE mailbox.
 These queries are Research Software Engineering related and whilst this does have an overlap with the remit of the Ask-JGI helpdesk, we are not expected to be able to help with all of the queries and the researchers contacting us through this route should be made aware of this.
 If we're able to directly support then we should.
 
-## Getting JGI Data Scientists/RSE Involved
+## Getting JGI Data Scientists/AI engineer/RSE Involved
 
-Occasionally, some queries will fall out of the remit of Ask-JGI PhD students but might be appropriate for the full time JGI Data Science/Research Software Engineering team.
-These will usually be more specialised data science tasks and ideally these will be approached with a buddy system approach, where the JGI Data Scientist/RSE attends with an Ask-JGI PhD student.
+Occasionally, some queries will fall out of the remit of Ask-JGI PhD students but might be appropriate for the full time JGI Data Science/AI engineer/Research Software Engineering team.
+These will usually be more specialised data science tasks and ideally these will be approached with a buddy system approach, where the JGI Data Scientist/AI engineer/RSE attends with an Ask-JGI PhD student.
 Sometimes, these activities might just be signposting exercises, where the query requires specialist expertise from a researcher at the university. 
 
 ## Costing
