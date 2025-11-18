@@ -19,19 +19,18 @@ parts:
     - file: pages/Ask-JGI_queries/Ask-JGIqueries
     - file: pages/Ask-JGI_queries/ticket-updates
     - file: pages/Ask-JGI_queries/tracker
-    - file: pages/Ask-JGI_queries/time-allocation
     - file: pages/Ask-JGI_queries/arranging-meetings
+    - file: pages/Ask-JGI_queries/time-allocation
+    - file: pages/Ask-JGI_queries/acknowledgement-guidelines
+   
   - caption: Signposting and other services
     chapters:
     - file: pages/resources/other-services
 
 
+# Old TOC
 
-
-
- # Old TOC
-
- # format: jb-book
+# format: jb-book
 # root: pages/intro
 # parts:
 # - caption: Procedures
