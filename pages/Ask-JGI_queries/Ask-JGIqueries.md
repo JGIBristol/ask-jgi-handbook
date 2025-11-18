@@ -34,6 +34,7 @@ with the newly created ticket (so that the ticket gets updated with
 each new email in the thread). 
 You can read about how to deal with duplicate tracker IDs in the [next section](duplicates).
 
+(share-queries-Teams)=
 ## 3. Ask-JGI student on shift shares the query on Teams
 
 The Ask-JGI student on shift will share the query in the Ask-JGI **Teams channel**, and will either:

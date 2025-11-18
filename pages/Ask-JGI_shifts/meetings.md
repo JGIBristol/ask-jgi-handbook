@@ -1,8 +1,8 @@
 (meetings)=
 # Weekly meetings
 
-**Time:** TBD (previously Tuesday at 16:00)  
-**Place:** Hybrid and location TBD (previously Verdon Smith International Seminar Room Royal Fort House and MS Teams)
+**Time:** Tuesday at 16:00  
+**Place:** Hybrid (Garden Room, Royal Fort House or MS Teams)
 
 All Ask-JGI team members are expected to attend the weekly meetings to
 keep abreast of relevant news and developments. Team members will
@@ -17,7 +17,8 @@ This is a weekly catch-up so that:
   with the team.
 - The Ask-JGI team members on shift that week can provide an update
   on any new or ongoing queries in the mailbox that they are dealing
-  with- Any Ask-JGI team member can ask for help, advice, or guidance on a query that
+  with 
+- Any Ask-JGI team member can ask for help, advice, or guidance on a query that
   they are dealing with or a project that they are working on.
 
 ## Before the meeting
