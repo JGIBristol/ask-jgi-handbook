@@ -12,32 +12,27 @@ The Ask-JGI PhD students for the 2025/2026 academic year are:
 
 **Fahd Abdelazim** [✉️](mailto:fahd.abdelazim@bristol.ac.uk) 
        
-- add bio here
 <br>
 
-**Cecina Babich Morrow** [✉️](mailto:cecina.babichmorrow@bristol.ac.uk)
-   
-- add bio here
+**Cecina Babich Morrow** [✉️](mailto:cecina.babichmorrow@bristol.ac.uk)  
+
 <br>
 
 **Zhujun Liu** [✉️](mailto:zhujun.liu@bristol.ac.uk)
 
-- add bio here
 <br>
 
 **Zhengzhe Peng** [✉️](mailto:zhengzhe.peng@bristol.ac.uk)
-    
-- add bio here
+  
 <br>
 
 **Ka Kei Sum** [✉️](mailto:kakei.sum@bristol.ac.uk)
     
-- add bio here
 <br>
 
 **Yining Yuan** [✉️](mailto:yining.yuan@bristol.ac.uk)
 
-- add bio here
+
 
 
 

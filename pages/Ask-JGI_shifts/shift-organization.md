@@ -13,40 +13,40 @@ required to sign up for so-called [Ask-JGI shifts](signup).
 Students on shift will keep the rest of the team up-to-date at Weekly
 meetings. 
 
-Ask-JGI shifts will be undertaken by Ask-JGI team members in 2 week blocks.
+Ask-JGI shifts will be undertaken by Ask-JGI team members in **two week** blocks.
 There tends to be one Ask-JGI team member on shift at any one time, but occasionally when there have been lots of queries, there have been 2 people on shift at once.
 
-
-For each 2 week shift block, a base salary of 2 hours (1 hour per week), will be paid.
+For each two week shift block, a base salary of 2 hours (1 hour per week), will be paid.
 This is to cover the monitoring of the Ask-JGI mailbox/Teams channel and attendance at the weekly Ask-JGI [meetings](meetings).
 
 (tasks)=
 ## Shifter tasks
 
-The following tasks are expected of Ask-JGI team members while they
-are on shift:
-
-1. Each shift block begins on a Monday. 
-2. On Monday you might want to ask the previous shifter if they have anything to hand over
+The following tasks are expected of Ask-JGI team members while they are on shift:
+1. Each shift block begins officialy on a Wednesday 
+   (but in practice on the Tuesday meeting the day before).
+2. On the Tuesday meeting you might want to ask the previous
+   shifter if they have anything to hand over.
 3. You are expected to monitor the [Ask-JGI
-  mailbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox) at least once per day, checking
-   for any new queries or any follow-up emails from past weeks.
-   </br></br>
-4. You are expected to monitor the Ask-JGI Teams channel
+  mailbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox) at least once per day, checking for any new queries or any follow-up emails from past weeks.
+4. Any new queryies received in the mailbox should be 
+   [shared on the Ask-JGI Teams channel](share-queries-Teams).
+5. You are expected to monitor the Ask-JGI Teams channel
    throughout the day in case of any important messages. This is also
    where you can post any new queries that you would like input on, or
    that you would like to offer up to other Ask-JGI team members to
    participate in.
+   </br>
    ```{tip}
-   Remember that the Staff Data Scientists are on the Teams channel too,
+   Remember that the Staff Data Scientists, AI and Research Software Engineers are on the Teams channel too,
    and they can offer advice and pointers on any query that you need help
    with.
    ```
    </br>
-5. While they are on shift, Ask-JGI team members should report on
-the status of the mailbox and any ongoing queries at the [weekly meetings](meetings) 
-</br></br>
-6. For any query that you pick up, you are responsible for filling out
+6. While they are on shift, Ask-JGI team members should report on
+   the status of the mailbox and any ongoing queries at the [weekly meetings](meetings).
+
+7. For any query that you pick up, you are responsible for filling out
    the [Ask-JGI
    tracker](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Lists/AskJGI%20tracker/) 
    as per the instructions [here](filler). It is
