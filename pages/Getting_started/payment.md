@@ -32,7 +32,7 @@ Things to complete on the timesheet:
 -	Each **time** you work, insert the **date**, the **hours** that you worked and **what you worked on** into the ‘timesheet’ sheet.
 :::{image} ../../images/timesheet1.png
     :alt: Example of a timesheet.
-    :width: 500px
+    :width: 600px
     :align: center
 :::
 
