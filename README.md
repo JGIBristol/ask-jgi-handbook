@@ -21,8 +21,7 @@ If you _either_ make changes through the GitHub interface, _or_ push changes up 
 If you prefer to preview changes locally, then the recommended way is:
 
 * [Install uv](https://docs.astral.sh/uv/#installation)
-* From the repo directory, run: `uvx jupyter-book build .`
-* If you have an older version of jupyter-book, run: `uvx --from 'jupyter-book<2' jupyter-book build .`
+* From the repo directory run: `uvx --from 'jupyter-book<2' jupyter-book build .`
 
 
 ## Suggestions and issues
