@@ -22,6 +22,8 @@ If you prefer to preview changes locally, then the recommended way is:
 
 * [Install uv](https://docs.astral.sh/uv/#installation)
 * From the repo directory, run: `uvx jupyter-book build .`
+* If you have an older version of jupyter-book, run: `uvx --from 'jupyter-book<2' jupyter-book build .`
+
 
 ## Suggestions and issues
 If you have suggestions for improvements to the handbook, or find any issues, please raise them as [GitHub issues](https://github.com/JGIBristol/ask-jgi-handbook/issues).
