@@ -18,7 +18,7 @@ Once checked, the JGI admin team will then submit your total hours to University
 Information on this process can be found on the [CAG SharePoint](https://uob.sharepoint.com/sites/myerp/SitePages/cag-casual-academics-and-guests.aspx).
 
 ### TSS timesheet process for those claiming hours
-Ask-JGI individual timesheets and be  in the [ Timesheets.25-26 sharepoint folder](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Timesheets.25-26?csf=1&web=1&e=AKYN5y). Each time member will only be able to access the their one timesheet. 
+Ask-JGI individual timesheets and be  in the [ Timesheets.25-26 sharepoint folder](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Timesheets/Timesheets.25-26?csf=1&web=1&e=J5b4sr). Each time member will only be able to access the their one timesheet. 
 
 Those on **TIER 4 visa’s** will also have a TSS timesheet provided to them by the TSS service. This is a weekly timesheet, and hours cannot be amended in previous weeks. Hence sometimes, there may be a discrepancy between your JGI and TSS timesheet. This is fine. Joanne has access to both and will always claim your most recently updated hours. 
 
