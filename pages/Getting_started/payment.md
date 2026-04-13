@@ -7,7 +7,7 @@ We expect most students will claim via the **Temporary Staffing Service (TSS)** 
 
 ## JGI Admin Contact
 
-For any queries regarding payment claims, timesheets or related matters, please contact Madlen Williams [✉️](mailto:madlen.williams@bristol.ac.uk) from the JGI admin team. If Madlen is unavailable, please contact the JGI admin team[✉️](mailto:jgi-admin@bristol.ac.uk).
+For any queries regarding payment claims, timesheets or related matters, please contact Joanne Norris [✉️](mailto:joanne.norris@bristol.ac.uk) from the JGI admin team. If Joanne is unavailable, please contact the JGI admin team[✉️](mailto:jgi-admin@bristol.ac.uk).
 
 ## Temporary Staffing Service (TSS) Claims
 
@@ -20,7 +20,7 @@ Information on this process can be found on the [CAG SharePoint](https://uob.sha
 ### TSS timesheet process for those claiming hours
 Ask-JGI individual timesheets and be  in the [ Timesheets.25-26 sharepoint folder](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Timesheets.25-26?csf=1&web=1&e=AKYN5y). Each time member will only be able to access the their one timesheet. 
 
-Those on **TIER 4 visa’s** will also have a TSS timesheet provided to them by the TSS service. This is a weekly timesheet, and hours cannot be amended in previous weeks. Hence sometimes, there may be a discrepancy between your JGI and TSS timesheet. This is fine. Madlen has access to both and will always claim your most recently updated hours. 
+Those on **TIER 4 visa’s** will also have a TSS timesheet provided to them by the TSS service. This is a weekly timesheet, and hours cannot be amended in previous weeks. Hence sometimes, there may be a discrepancy between your JGI and TSS timesheet. This is fine. Joanne has access to both and will always claim your most recently updated hours. 
 
 Submission deadline: **26th** of each month
 -	Complete your timesheet with your most up to date hours by the 26th of the month
